@@ -1,33 +1,40 @@
 """
-Fetch live job postings from Greenhouse and Lever ATS APIs.
+Fetch live job postings from Greenhouse, Lever, and LinkedIn.
 Writes src/data/jobs.ts — run daily via GitHub Actions.
 """
 
 import json
 import re
 import sys
+import time
 from datetime import date, datetime
 from pathlib import Path
 
 import requests
+from bs4 import BeautifulSoup
 
 SCRIPT_DIR = Path(__file__).parent
 REPO_ROOT = SCRIPT_DIR.parent
 OUTPUT_FILE = REPO_ROOT / "src" / "data" / "jobs.ts"
 
-TIMEOUT = 10  # seconds per request
+TIMEOUT = 15  # seconds per request
 
 # ── Company ATS configuration ──────────────────────────────────────────────
 
 COMPANIES = [
-    # Verified working ATS boards:
-    {"id": "figure-ai",        "ats": "greenhouse", "token": "figureai"},
-    {"id": "agility-robotics", "ats": "greenhouse", "token": "agilityrobotics"},
-    {"id": "apptronik",        "ats": "greenhouse", "token": "apptronik"},
-    # All others fall back to seed_jobs.json (no public ATS board found):
-    # boston-dynamics, 1x-technologies, sanctuary-ai, unitree-robotics,
-    # skydio, gecko-robotics, intrinsic, covariant, physical-intelligence,
-    # machina-labs, veo-robotics
+    # Greenhouse (public JSON API — most reliable)
+    {"id": "figure-ai",             "ats": "greenhouse", "token": "figureai"},
+    {"id": "agility-robotics",      "ats": "greenhouse", "token": "agilityrobotics"},
+    {"id": "apptronik",             "ats": "greenhouse", "token": "apptronik"},
+    # LinkedIn search (no API key — falls back to seed data if blocked)
+    {"id": "boston-dynamics",       "ats": "linkedin",   "name": "Boston Dynamics"},
+    {"id": "skydio",                "ats": "linkedin",   "name": "Skydio"},
+    {"id": "gecko-robotics",        "ats": "linkedin",   "name": "Gecko Robotics"},
+    {"id": "intrinsic",             "ats": "linkedin",   "name": "Intrinsic"},
+    {"id": "covariant",             "ats": "linkedin",   "name": "Covariant"},
+    {"id": "physical-intelligence", "ats": "linkedin",   "name": "Physical Intelligence"},
+    {"id": "machina-labs",          "ats": "linkedin",   "name": "Machina Labs"},
+    {"id": "veo-robotics",          "ats": "linkedin",   "name": "Veo Robotics"},
 ]
 
 SEED_FILE = SCRIPT_DIR / "seed_jobs.json"
@@ -89,7 +96,6 @@ def extract_skills(text: str) -> list[str]:
         key = skill.lower()
         if key in seen:
             continue
-        # Word-boundary check: skill must not be surrounded by alphanumerics
         idx = lower.find(key)
         if idx == -1:
             continue
@@ -108,9 +114,7 @@ def normalize_location(raw: str) -> tuple[str, bool]:
         return ("Remote", True)
     low = raw.lower()
     is_remote = "remote" in low
-    # Strip HTML tags if any
     clean = re.sub(r"<[^>]+>", "", raw).strip()
-    # Collapse whitespace
     clean = re.sub(r"\s+", " ", clean)
     return (clean or "Remote", is_remote)
 
@@ -123,7 +127,6 @@ def parse_greenhouse_date(ts) -> str:
     if not ts:
         return today_iso()
     try:
-        # Greenhouse returns ISO 8601: "2026-04-01T00:00:00.000Z"
         return datetime.fromisoformat(ts.replace("Z", "+00:00")).date().isoformat()
     except Exception:
         return today_iso()
@@ -133,7 +136,6 @@ def parse_lever_date(ts) -> str:
     if not ts:
         return today_iso()
     try:
-        # Lever returns Unix ms timestamp
         return datetime.fromtimestamp(int(ts) / 1000).date().isoformat()
     except Exception:
         return today_iso()
@@ -154,7 +156,6 @@ def fetch_greenhouse(company_id: str, token: str) -> list[dict]:
     jobs = []
     for raw in data.get("jobs", []):
         title = raw.get("title", "")
-        # Combine title + stripped HTML description for skill extraction
         desc_html = raw.get("content", "") or ""
         desc_text = re.sub(r"<[^>]+>", " ", desc_html)
         search_text = f"{title} {desc_text}"
@@ -201,7 +202,6 @@ def fetch_lever(company_id: str, token: str) -> list[dict]:
         )
         search_text = f"{title} {desc_text} {lists_text}"
 
-        # Lever location
         location_raw = raw.get("categories", {}).get("location", "") or raw.get("workplaceType", "")
         location, remote = normalize_location(location_raw)
 
@@ -220,6 +220,97 @@ def fetch_lever(company_id: str, token: str) -> list[dict]:
             "url": apply_url,
         })
     print(f"  ✓ Lever {token}: {len(jobs)} jobs")
+    return jobs
+
+
+# LinkedIn guest search — no API key required.
+# LinkedIn may block cloud IPs; if so, this returns [] and seed data is used.
+LINKEDIN_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+}
+
+
+def fetch_linkedin(company_id: str, company_name: str) -> list[dict]:
+    """Search LinkedIn guest job search for a company. Falls back gracefully on block."""
+    time.sleep(3)  # rate limit between requests
+
+    try:
+        resp = requests.get(
+            "https://www.linkedin.com/jobs/search/",
+            params={
+                "keywords": company_name,
+                "location": "United States",
+                "f_TPR": "r2592000",  # past 30 days
+                "position": 1,
+                "pageNum": 0,
+            },
+            headers=LINKEDIN_HEADERS,
+            timeout=TIMEOUT,
+        )
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  ✗ LinkedIn {company_name}: {e}", file=sys.stderr)
+        return []
+
+    # Detect auth wall redirect
+    if any(x in resp.url for x in ("authwall", "/login", "/checkpoint")):
+        print(f"  ✗ LinkedIn {company_name}: auth wall — seed fallback will be used", file=sys.stderr)
+        return []
+
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    # Try both known card selectors (LinkedIn changes HTML periodically)
+    cards = soup.select("div.base-card") or soup.select("li.jobs-search__results-list > div")
+
+    if not cards:
+        print(f"  ✗ LinkedIn {company_name}: no job cards found (HTML structure may have changed)", file=sys.stderr)
+        return []
+
+    jobs = []
+    for card in cards:
+        title_el    = card.select_one("h3.base-search-card__title")
+        company_el  = card.select_one("h4.base-search-card__subtitle")
+        location_el = card.select_one("span.job-search-card__location")
+        link_el     = card.select_one("a.base-card__full-link")
+        time_el     = card.select_one("time")
+
+        if not title_el or not link_el:
+            continue
+
+        # Skip postings not actually from this company
+        listed_company = company_el.get_text(strip=True) if company_el else ""
+        if company_name.lower() not in listed_company.lower():
+            continue
+
+        title        = title_el.get_text(strip=True)
+        location_raw = location_el.get_text(strip=True) if location_el else ""
+        location, remote = normalize_location(location_raw)
+        href         = link_el.get("href", "")
+        url_clean    = href.split("?")[0]  # strip tracking params
+        posted       = time_el.get("datetime", today_iso()) if time_el else today_iso()
+        job_slug     = url_clean.rstrip("/").split("-")[-1]
+
+        jobs.append({
+            "id":         f"{company_id}-li-{job_slug}",
+            "companyId":  company_id,
+            "title":      title,
+            "level":      infer_level(title),
+            "skills":     extract_skills(title),
+            "location":   location,
+            "remote":     remote,
+            "postedDate": posted,
+            "url":        url_clean,
+        })
+
+    print(f"  ✓ LinkedIn {company_name}: {len(jobs)} jobs")
     return jobs
 
 
@@ -266,28 +357,27 @@ def write_ts(jobs: list[dict]) -> None:
 # ── Main ──────────────────────────────────────────────────────────────────
 
 def main():
-    # Load seed jobs (fallback for companies without a public ATS board)
     seed_jobs: list[dict] = json.loads(SEED_FILE.read_text(encoding="utf-8"))
     live_company_ids: set[str] = set()
-
     live_jobs: list[dict] = []
+
     for company in COMPANIES:
         cid = company["id"]
         ats = company["ats"]
-        token = company["token"]
         print(f"\n{cid}")
 
         fetched: list[dict] = []
         if ats == "greenhouse":
-            fetched = fetch_greenhouse(cid, token)
+            fetched = fetch_greenhouse(cid, company["token"])
         elif ats == "lever":
-            fetched = fetch_lever(cid, token)
+            fetched = fetch_lever(cid, company["token"])
+        elif ats == "linkedin":
+            fetched = fetch_linkedin(cid, company["name"])
 
         if fetched:
             live_jobs.extend(fetched)
             live_company_ids.add(cid)
 
-    # Seed jobs for any company that wasn't fetched live
     seed_fallback = [j for j in seed_jobs if j["companyId"] not in live_company_ids]
     if seed_fallback:
         companies_using_seed = {j["companyId"] for j in seed_fallback}
