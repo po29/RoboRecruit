@@ -1,1 +1,408 @@
-[]
+[
+  {
+    "id": "overland-ai",
+    "name": "Overland AI",
+    "website": "",
+    "founded": 0,
+    "hq": "Seattle, WA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Seattle, WA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "pittsburgh-robotics-network",
+    "name": "Pittsburgh Robotics Network",
+    "website": "",
+    "founded": 0,
+    "hq": "Pittsburgh, PA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [
+      {
+        "name": "Computer Vision",
+        "category": "TechCategory.Perception"
+      }
+    ],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Pittsburgh, PA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 3,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "fieldai",
+    "name": "FieldAI",
+    "website": "",
+    "founded": 0,
+    "hq": "Irvine, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.HumanoidRobotics",
+      "ProblemDomain.MobileManipulation",
+      "ProblemDomain.EmbodiedAI"
+    ],
+    "techStack": [
+      {
+        "name": "Embedded Systems",
+        "category": "TechCategory.Hardware"
+      }
+    ],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in humanoid robotics, mobile manipulation, embodied AI. Based in Irvine, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 13,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "website": "",
+    "founded": 0,
+    "hq": "North Reading, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.MobileManipulation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in mobile manipulation. Based in North Reading, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "qualcomm",
+    "name": "Qualcomm",
+    "website": "",
+    "founded": 0,
+    "hq": "Santa Clara, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Santa Clara, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 3,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "general-motors",
+    "name": "General Motors",
+    "website": "",
+    "founded": 0,
+    "hq": "Warren, MI",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Warren, MI. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "motivo",
+    "name": "Motivo",
+    "website": "",
+    "founded": 0,
+    "hq": "Compton, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Compton, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "analog-devices",
+    "name": "Analog Devices",
+    "website": "",
+    "founded": 0,
+    "hq": "Wilmington, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Wilmington, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "nvidia",
+    "name": "NVIDIA",
+    "website": "",
+    "founded": 0,
+    "hq": "Santa Clara, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Santa Clara, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 8,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "mayfield",
+    "name": "Mayfield",
+    "website": "",
+    "founded": 0,
+    "hq": "Palo Alto, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [
+      {
+        "name": "Computer Vision",
+        "category": "TechCategory.Perception"
+      }
+    ],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Palo Alto, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "agility",
+    "name": "Agility",
+    "website": "",
+    "founded": 0,
+    "hq": "Fremont, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Fremont, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 5,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "website": "",
+    "founded": 0,
+    "hq": "Redmond, WA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Redmond, WA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 3,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "nvidia-ai",
+    "name": "NVIDIA AI",
+    "website": "",
+    "founded": 0,
+    "hq": "Santa Clara, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Santa Clara, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 3,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "humanoid",
+    "name": "Humanoid",
+    "website": "",
+    "founded": 0,
+    "hq": "Cambridge, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.MobileManipulation"
+    ],
+    "techStack": [
+      {
+        "name": "Reinforcement Learning",
+        "category": "TechCategory.ML"
+      }
+    ],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in mobile manipulation. Based in Cambridge, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "figure",
+    "name": "Figure",
+    "website": "",
+    "founded": 0,
+    "hq": "San Jose, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Jose, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 3,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla",
+    "website": "",
+    "founded": 0,
+    "hq": "Palo Alto, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.SafetyCollaboration"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in safety & collaboration. Based in Palo Alto, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 4,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "anduril-industries",
+    "name": "Anduril Industries",
+    "website": "",
+    "founded": 0,
+    "hq": "Costa Mesa, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.DroneUAV"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in drone / UAV. Based in Costa Mesa, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 12,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "edison-smart",
+    "name": "Edison Smart®",
+    "website": "",
+    "founded": 0,
+    "hq": "Boston, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Boston, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "strativ-group",
+    "name": "Strativ Group",
+    "website": "",
+    "founded": 0,
+    "hq": "El Segundo, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in El Segundo, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "wingxpand",
+    "name": "WingXpand",
+    "website": "",
+    "founded": 0,
+    "hq": "Schaumburg, IL",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Schaumburg, IL. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "applied-intuition",
+    "name": "Applied Intuition",
+    "website": "",
+    "founded": 0,
+    "hq": "Sunnyvale, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Sunnyvale, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "crossing-hurdles",
+    "name": "Crossing Hurdles",
+    "website": "",
+    "founded": 0,
+    "hq": "United States",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in United States. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "andrews-cooper",
+    "name": "Andrews Cooper",
+    "website": "",
+    "founded": 0,
+    "hq": "Seattle, WA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Seattle, WA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-04-28"
+  },
+  {
+    "id": "mach-industries",
+    "name": "Mach Industries",
+    "website": "",
+    "founded": 0,
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.ManufacturingAuto"
+    ],
+    "techStack": [],
+    "products": [],
+    "description": "Auto-discovered US robotics company working in manufacturing automation. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 3,
+    "discoveredDate": "2026-04-28"
+  }
+]
