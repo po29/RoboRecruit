@@ -1,0 +1,37 @@
+name: Update Job Listings
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 6 AM UTC every day
+  workflow_dispatch:        # manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch live job postings
+        run: python scripts/fetch_jobs.py
+
+      - name: Commit updated jobs if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet src/data/jobs.ts || (
+            git add src/data/jobs.ts &&
+            git commit -m "chore: update job listings $(date -u +%Y-%m-%d)" &&
+            git push
+          )

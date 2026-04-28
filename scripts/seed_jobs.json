@@ -1,0 +1,226 @@
+[
+  {
+    "id": "bd-001", "companyId": "boston-dynamics",
+    "title": "Senior Robotics Software Engineer — Locomotion", "level": "Senior",
+    "skills": ["C++", "ROS 2", "Control Theory", "Python", "Gazebo"],
+    "location": "Waltham, MA", "remote": false, "postedDate": "2026-04-01",
+    "url": "https://bostondynamics.com/careers"
+  },
+  {
+    "id": "bd-002", "companyId": "boston-dynamics",
+    "title": "Machine Learning Engineer — Perception", "level": "Mid",
+    "skills": ["Python", "PyTorch", "Computer Vision", "CUDA", "OpenCV"],
+    "location": "Waltham, MA", "remote": false, "postedDate": "2026-04-05",
+    "url": "https://bostondynamics.com/careers"
+  },
+  {
+    "id": "bd-003", "companyId": "boston-dynamics",
+    "title": "Controls Engineer — Atlas", "level": "Senior",
+    "skills": ["C++", "Control Theory", "LQR", "MPC", "MATLAB", "Python"],
+    "location": "Waltham, MA", "remote": false, "postedDate": "2026-03-20",
+    "url": "https://bostondynamics.com/careers"
+  },
+  {
+    "id": "bd-004", "companyId": "boston-dynamics",
+    "title": "Staff Software Engineer — Cloud Infrastructure", "level": "Staff",
+    "skills": ["AWS", "Python", "Kubernetes", "Docker", "Terraform"],
+    "location": "Waltham, MA", "remote": true, "postedDate": "2026-04-10",
+    "url": "https://bostondynamics.com/careers"
+  },
+  {
+    "id": "1x-001", "companyId": "1x-technologies",
+    "title": "Senior Robotics Engineer — Embodied AI", "level": "Senior",
+    "skills": ["Python", "C++", "PyTorch", "Neural Networks", "Imitation Learning"],
+    "location": "Moss, Norway", "remote": false, "postedDate": "2026-04-09",
+    "url": "https://1x.tech/careers"
+  },
+  {
+    "id": "1x-002", "companyId": "1x-technologies",
+    "title": "Systems Engineer — Real-time Control", "level": "Mid",
+    "skills": ["C++", "Rust", "ROS 2", "Real-time Systems", "EtherCAT"],
+    "location": "Moss, Norway", "remote": false, "postedDate": "2026-04-03",
+    "url": "https://1x.tech/careers"
+  },
+  {
+    "id": "1x-003", "companyId": "1x-technologies",
+    "title": "Staff ML Researcher", "level": "Staff",
+    "skills": ["Python", "JAX", "PyTorch", "Diffusion Models", "Isaac Sim"],
+    "location": "San Jose, CA", "remote": false, "postedDate": "2026-04-17",
+    "url": "https://1x.tech/careers"
+  },
+  {
+    "id": "sanc-001", "companyId": "sanctuary-ai",
+    "title": "Senior AI/ML Engineer — Robot Brain", "level": "Senior",
+    "skills": ["Python", "PyTorch", "Large Language Models", "ROS 2", "CUDA"],
+    "location": "Vancouver, BC", "remote": false, "postedDate": "2026-04-10",
+    "url": "https://sanctuary.ai/careers"
+  },
+  {
+    "id": "sanc-002", "companyId": "sanctuary-ai",
+    "title": "Robotics Software Engineer — Dexterity", "level": "Mid",
+    "skills": ["C++", "Python", "ROS 2", "Kinematics", "Force Control"],
+    "location": "Vancouver, BC", "remote": false, "postedDate": "2026-04-04",
+    "url": "https://sanctuary.ai/careers"
+  },
+  {
+    "id": "sanc-003", "companyId": "sanctuary-ai",
+    "title": "Staff Research Scientist — Embodied AI", "level": "Staff",
+    "skills": ["Python", "PyTorch", "Imitation Learning", "Reinforcement Learning", "TensorFlow"],
+    "location": "Vancouver, BC", "remote": false, "postedDate": "2026-04-19",
+    "url": "https://sanctuary.ai/careers"
+  },
+  {
+    "id": "unit-001", "companyId": "unitree-robotics",
+    "title": "Algorithm Engineer — Legged Locomotion", "level": "Mid",
+    "skills": ["C++", "Python", "Reinforcement Learning", "MuJoCo", "CUDA"],
+    "location": "Hangzhou, China", "remote": false, "postedDate": "2026-04-08",
+    "url": "https://unitree.com"
+  },
+  {
+    "id": "unit-002", "companyId": "unitree-robotics",
+    "title": "Embedded Software Engineer", "level": "Mid",
+    "skills": ["C++", "Embedded Systems", "ROS 2", "Real-time Systems", "Linux"],
+    "location": "Hangzhou, China", "remote": false, "postedDate": "2026-04-01",
+    "url": "https://unitree.com"
+  },
+  {
+    "id": "sky-001", "companyId": "skydio",
+    "title": "Senior Autonomy Engineer — Navigation", "level": "Senior",
+    "skills": ["C++", "Python", "SLAM", "Computer Vision", "State Estimation"],
+    "location": "San Mateo, CA", "remote": false, "postedDate": "2026-04-11",
+    "url": "https://skydio.com/careers"
+  },
+  {
+    "id": "sky-002", "companyId": "skydio",
+    "title": "ML Engineer — Perception", "level": "Mid",
+    "skills": ["Python", "PyTorch", "CUDA", "Computer Vision", "Object Detection"],
+    "location": "San Mateo, CA", "remote": false, "postedDate": "2026-04-05",
+    "url": "https://skydio.com/careers"
+  },
+  {
+    "id": "sky-003", "companyId": "skydio",
+    "title": "Cloud Platform Engineer", "level": "Mid",
+    "skills": ["AWS", "Python", "Kubernetes", "Docker", "Go"],
+    "location": "San Mateo, CA", "remote": true, "postedDate": "2026-04-17",
+    "url": "https://skydio.com/careers"
+  },
+  {
+    "id": "gecko-001", "companyId": "gecko-robotics",
+    "title": "Robotics Software Engineer — Inspection", "level": "Mid",
+    "skills": ["Python", "ROS 2", "C++", "Linux"],
+    "location": "Pittsburgh, PA", "remote": false, "postedDate": "2026-04-09",
+    "url": "https://geckorobotics.com/careers"
+  },
+  {
+    "id": "gecko-002", "companyId": "gecko-robotics",
+    "title": "Data Platform Engineer", "level": "Mid",
+    "skills": ["Go", "Python", "AWS", "PostgreSQL", "Docker"],
+    "location": "Pittsburgh, PA", "remote": true, "postedDate": "2026-04-03",
+    "url": "https://geckorobotics.com/careers"
+  },
+  {
+    "id": "gecko-003", "companyId": "gecko-robotics",
+    "title": "ML Engineer — Defect Detection", "level": "Senior",
+    "skills": ["Python", "PyTorch", "Computer Vision", "CUDA", "AWS"],
+    "location": "Pittsburgh, PA", "remote": true, "postedDate": "2026-04-14",
+    "url": "https://geckorobotics.com/careers"
+  },
+  {
+    "id": "intr-001", "companyId": "intrinsic",
+    "title": "Staff Software Engineer — Robot SDK", "level": "Staff",
+    "skills": ["Go", "C++", "Python", "gRPC", "ROS 2"],
+    "location": "Mountain View, CA", "remote": true, "postedDate": "2026-04-12",
+    "url": "https://intrinsic.ai/careers"
+  },
+  {
+    "id": "intr-002", "companyId": "intrinsic",
+    "title": "Research Scientist — Task and Motion Planning", "level": "Senior",
+    "skills": ["Python", "C++", "Large Language Models", "Motion Planning", "ROS 2"],
+    "location": "Mountain View, CA", "remote": true, "postedDate": "2026-04-06",
+    "url": "https://intrinsic.ai/careers"
+  },
+  {
+    "id": "intr-003", "companyId": "intrinsic",
+    "title": "Senior Software Engineer — Cloud Infrastructure", "level": "Senior",
+    "skills": ["Go", "Kubernetes", "Google Cloud", "gRPC", "Docker"],
+    "location": "Mountain View, CA", "remote": true, "postedDate": "2026-03-31",
+    "url": "https://intrinsic.ai/careers"
+  },
+  {
+    "id": "cov-001", "companyId": "covariant",
+    "title": "Research Scientist — Foundation Models", "level": "Senior",
+    "skills": ["Python", "PyTorch", "Large Language Models", "Reinforcement Learning", "CUDA"],
+    "location": "Emeryville, CA", "remote": false, "postedDate": "2026-04-13",
+    "url": "https://covariant.ai/careers"
+  },
+  {
+    "id": "cov-002", "companyId": "covariant",
+    "title": "Robotics Software Engineer — Grasping", "level": "Mid",
+    "skills": ["C++", "ROS 2", "Python", "Computer Vision", "Motion Planning"],
+    "location": "Emeryville, CA", "remote": false, "postedDate": "2026-04-07",
+    "url": "https://covariant.ai/careers"
+  },
+  {
+    "id": "cov-003", "companyId": "covariant",
+    "title": "ML Platform Engineer", "level": "Senior",
+    "skills": ["Python", "PyTorch", "AWS", "Docker", "Kubernetes", "CUDA"],
+    "location": "Emeryville, CA", "remote": true, "postedDate": "2026-04-01",
+    "url": "https://covariant.ai/careers"
+  },
+  {
+    "id": "pi-001", "companyId": "physical-intelligence",
+    "title": "Research Scientist — Robot Learning", "level": "Senior",
+    "skills": ["Python", "JAX", "PyTorch", "Diffusion Models", "Imitation Learning"],
+    "location": "San Francisco, CA", "remote": false, "postedDate": "2026-04-15",
+    "url": "https://physicalintelligence.company/careers"
+  },
+  {
+    "id": "pi-002", "companyId": "physical-intelligence",
+    "title": "Robotics Engineer — Hardware Integration", "level": "Mid",
+    "skills": ["Python", "ROS 2", "C++", "Linux"],
+    "location": "San Francisco, CA", "remote": false, "postedDate": "2026-04-09",
+    "url": "https://physicalintelligence.company/careers"
+  },
+  {
+    "id": "pi-003", "companyId": "physical-intelligence",
+    "title": "Staff ML Engineer — Training Infrastructure", "level": "Staff",
+    "skills": ["Python", "JAX", "CUDA", "Distributed Training", "Google Cloud"],
+    "location": "San Francisco, CA", "remote": false, "postedDate": "2026-04-03",
+    "url": "https://physicalintelligence.company/careers"
+  },
+  {
+    "id": "mach-001", "companyId": "machina-labs",
+    "title": "Senior Robotics Controls Engineer", "level": "Senior",
+    "skills": ["C++", "Python", "ROS 2", "Force Control", "Control Theory"],
+    "location": "Los Angeles, CA", "remote": false, "postedDate": "2026-04-08",
+    "url": "https://machinalabs.ai/careers"
+  },
+  {
+    "id": "mach-002", "companyId": "machina-labs",
+    "title": "ML Engineer — Process Learning", "level": "Mid",
+    "skills": ["Python", "PyTorch", "CUDA", "AWS", "Reinforcement Learning"],
+    "location": "Los Angeles, CA", "remote": false, "postedDate": "2026-04-02",
+    "url": "https://machinalabs.ai/careers"
+  },
+  {
+    "id": "veo-001", "companyId": "veo-robotics",
+    "title": "Senior Computer Vision Engineer — Safety Systems", "level": "Senior",
+    "skills": ["C++", "Python", "Computer Vision", "OpenCV", "3D Sensing"],
+    "location": "Waltham, MA", "remote": false, "postedDate": "2026-04-10",
+    "url": "https://veobot.com/careers"
+  },
+  {
+    "id": "veo-002", "companyId": "veo-robotics",
+    "title": "Embedded Systems Engineer", "level": "Mid",
+    "skills": ["C++", "Embedded Systems", "Safety PLC", "Real-time Systems", "Linux"],
+    "location": "Waltham, MA", "remote": false, "postedDate": "2026-04-04",
+    "url": "https://veobot.com/careers"
+  },
+  {
+    "id": "veo-003", "companyId": "veo-robotics",
+    "title": "Cloud Backend Engineer", "level": "Mid",
+    "skills": ["Python", "AWS", "Docker", "Go", "Kubernetes"],
+    "location": "Waltham, MA", "remote": true, "postedDate": "2026-04-18",
+    "url": "https://veobot.com/careers"
+  }
+]
