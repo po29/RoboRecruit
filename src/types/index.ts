@@ -70,6 +70,7 @@ export interface Company {
   description: string
   jobCount: number
   discovered?: boolean
+  userAdded?: boolean
 }
 
 export interface Job {

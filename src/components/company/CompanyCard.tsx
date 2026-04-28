@@ -1,5 +1,26 @@
+import { useState } from 'react'
 import { Company } from '../../types'
 import { Badge } from '../ui/Badge'
+
+function toSnippet(company: Company): string {
+  const cleanId = company.id.replace(/^user-/, '').replace(/-\d{13}$/, '')
+  return [
+    `  {`,
+    `    id: '${cleanId}',`,
+    `    name: ${JSON.stringify(company.name)},`,
+    `    logo: '',`,
+    `    website: ${JSON.stringify(company.website)},`,
+    `    founded: 0,`,
+    `    hq: '',`,
+    `    stage: CompanyStage.SeriesA,`,
+    `    problems: [],`,
+    `    techStack: [],`,
+    `    products: [],`,
+    `    description: '',`,
+    `    jobCount: 0,`,
+    `  },`,
+  ].join('\n')
+}
 
 interface CompanyCardProps {
   company: Company
@@ -19,6 +40,15 @@ const stageColors: Record<string, string> = {
 }
 
 export function CompanyCard({ company, jobCount, onClick }: CompanyCardProps) {
+  const [copied, setCopied] = useState(false)
+
+  function handleCopy(e: React.MouseEvent) {
+    e.stopPropagation()
+    navigator.clipboard.writeText(toSnippet(company)).then(() => {
+      setCopied(true)
+      setTimeout(() => setCopied(false), 2000)
+    })
+  }
   const maxDomains = 2
   const maxTech = 5
   const extraDomains = company.problems.length - maxDomains
@@ -61,9 +91,15 @@ export function CompanyCard({ company, jobCount, onClick }: CompanyCardProps) {
             {company.hq}{company.founded ? ` · Est. ${company.founded}` : ''}
           </p>
         </div>
-        <span className={`shrink-0 font-mono text-[10px] font-semibold ${stageColors[company.stage] ?? 'text-slate-400'}`}>
-          {company.stage}
-        </span>
+        {company.userAdded ? (
+          <span className="shrink-0 rounded border border-amber-500/40 bg-amber-500/10 px-1.5 py-0.5 font-mono text-[9px] font-semibold text-amber-400">
+            NOT SAVED
+          </span>
+        ) : (
+          <span className={`shrink-0 font-mono text-[10px] font-semibold ${stageColors[company.stage] ?? 'text-slate-400'}`}>
+            {company.stage}
+          </span>
+        )}
       </div>
 
       {/* Problem domains */}
@@ -103,6 +139,16 @@ export function CompanyCard({ company, jobCount, onClick }: CompanyCardProps) {
           <span className="font-mono text-[10px] text-slate-600">No open roles</span>
         )}
       </div>
+
+      {/* Copy-to-TypeScript (user-added companies only) */}
+      {company.userAdded && (
+        <button
+          onClick={handleCopy}
+          className="w-full rounded-lg border border-slate-700 bg-[#0d1220] px-3 py-1.5 font-mono text-[10px] text-slate-400 transition-colors hover:border-cyan-500/40 hover:text-cyan-300"
+        >
+          {copied ? '✓ Copied!' : 'Copy to TypeScript'}
+        </button>
+      )}
     </button>
   )
 }
