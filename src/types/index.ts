@@ -59,9 +59,9 @@ export interface Product {
 export interface Company {
   id: string
   name: string
-  logo: string
+  logo?: string
   website: string
-  founded: number
+  founded?: number
   hq: string
   stage: CompanyStage
   problems: ProblemDomain[]
@@ -69,6 +69,7 @@ export interface Company {
   products: Product[]
   description: string
   jobCount: number
+  discovered?: boolean
 }
 
 export interface Job {

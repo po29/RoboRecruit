@@ -1,0 +1,37 @@
+name: Discover New Robotics Companies
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 7 AM UTC daily (1 hour after job update)
+  workflow_dispatch:        # manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Discover new companies
+        run: python scripts/discover_companies.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet scripts/discovered_cache.json src/data/discoveredCompanies.ts || (
+            git add scripts/discovered_cache.json src/data/discoveredCompanies.ts &&
+            git commit -m "chore: discover new robotics companies $(date -u +%Y-%m-%d)" &&
+            git push
+          )

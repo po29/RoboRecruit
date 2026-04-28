@@ -32,23 +32,34 @@ export function CompanyCard({ company, jobCount, onClick }: CompanyCardProps) {
       {/* Header */}
       <div className="flex items-start gap-3">
         <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-[#1e3a5f] bg-[#0d1220] group-hover:border-cyan-500/30">
-          <img
-            src={company.logo}
-            alt={company.name}
-            className="h-7 w-7 object-contain"
-            onError={e => {
-              const el = e.currentTarget
-              el.style.display = 'none'
-              const parent = el.parentElement
-              if (parent) {
-                parent.innerHTML = `<span class="font-mono text-sm font-bold text-cyan-400">${company.name.charAt(0)}</span>`
-              }
-            }}
-          />
+          {company.logo ? (
+            <img
+              src={company.logo}
+              alt={company.name}
+              className="h-7 w-7 object-contain"
+              onError={e => {
+                const el = e.currentTarget
+                el.style.display = 'none'
+                const parent = el.parentElement
+                if (parent) {
+                  parent.innerHTML = `<span class="font-mono text-sm font-bold text-cyan-400">${company.name.charAt(0)}</span>`
+                }
+              }}
+            />
+          ) : (
+            <span className="font-mono text-sm font-bold text-cyan-400">{company.name.charAt(0)}</span>
+          )}
         </div>
         <div className="min-w-0 flex-1">
-          <p className="truncate font-semibold text-white group-hover:text-cyan-50">{company.name}</p>
-          <p className="text-xs text-slate-500">{company.hq} · Est. {company.founded}</p>
+          <div className="flex items-center gap-1.5">
+            <p className="truncate font-semibold text-white group-hover:text-cyan-50">{company.name}</p>
+            {company.discovered && (
+              <span className="shrink-0 rounded border border-cyan-500/30 bg-cyan-500/10 px-1 py-0.5 font-mono text-[8px] text-cyan-400">NEW</span>
+            )}
+          </div>
+          <p className="text-xs text-slate-500">
+            {company.hq}{company.founded ? ` · Est. ${company.founded}` : ''}
+          </p>
         </div>
         <span className={`shrink-0 font-mono text-[10px] font-semibold ${stageColors[company.stage] ?? 'text-slate-400'}`}>
           {company.stage}

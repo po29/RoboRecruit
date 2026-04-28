@@ -50,37 +50,52 @@ export function CompanyModal({ companyId, onClose }: CompanyModalProps) {
       {/* Header */}
       <div className="flex items-start gap-4 border-b border-[#1e3a5f] p-6">
         <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-xl border border-[#1e3a5f] bg-[#0d1220]">
-          <img
-            src={company.logo}
-            alt={company.name}
-            className="h-10 w-10 object-contain"
-            onError={e => {
-              const el = e.currentTarget
-              el.style.display = 'none'
-              const p = el.parentElement
-              if (p) p.innerHTML = `<span class="font-mono text-xl font-bold text-cyan-400">${company.name.charAt(0)}</span>`
-            }}
-          />
+          {company.logo ? (
+            <img
+              src={company.logo}
+              alt={company.name}
+              className="h-10 w-10 object-contain"
+              onError={e => {
+                const el = e.currentTarget
+                el.style.display = 'none'
+                const p = el.parentElement
+                if (p) p.innerHTML = `<span class="font-mono text-xl font-bold text-cyan-400">${company.name.charAt(0)}</span>`
+              }}
+            />
+          ) : (
+            <span className="font-mono text-xl font-bold text-cyan-400">{company.name.charAt(0)}</span>
+          )}
         </div>
         <div className="min-w-0 flex-1">
-          <h2 className="text-xl font-bold text-white">{company.name}</h2>
+          <div className="flex items-center gap-2">
+            <h2 className="text-xl font-bold text-white">{company.name}</h2>
+            {company.discovered && (
+              <span className="rounded border border-cyan-500/30 bg-cyan-500/10 px-1.5 py-0.5 font-mono text-[9px] text-cyan-400">AUTO-DISCOVERED</span>
+            )}
+          </div>
           <div className="mt-1 flex flex-wrap items-center gap-2 text-sm text-slate-400">
             <span>{company.hq}</span>
-            <span>·</span>
-            <span>Est. {company.founded}</span>
+            {company.founded ? (
+              <>
+                <span>·</span>
+                <span>Est. {company.founded}</span>
+              </>
+            ) : null}
             <span>·</span>
             <span className="font-mono text-amber-400">{company.stage}</span>
           </div>
         </div>
         <div className="flex items-center gap-2">
-          <a
-            href={company.website}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="rounded border border-[#1e3a5f] px-3 py-1.5 text-xs text-slate-400 hover:border-cyan-500/40 hover:text-cyan-300 transition-colors"
-          >
-            Website ↗
-          </a>
+          {company.website && (
+            <a
+              href={company.website}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded border border-[#1e3a5f] px-3 py-1.5 text-xs text-slate-400 hover:border-cyan-500/40 hover:text-cyan-300 transition-colors"
+            >
+              Website ↗
+            </a>
+          )}
           <button
             onClick={onClose}
             className="flex h-8 w-8 items-center justify-center rounded border border-[#1e3a5f] text-slate-400 hover:border-slate-500 hover:text-white transition-colors"

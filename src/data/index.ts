@@ -1,9 +1,11 @@
 import { ProblemDomain } from '../types'
-import { companies } from './companies'
+import { companies as curatedCompanies } from './companies'
+import { discoveredCompanies } from './discoveredCompanies'
 import { jobs } from './jobs'
 
-export { companies } from './companies'
 export { jobs } from './jobs'
+
+export const companies = [...curatedCompanies, ...discoveredCompanies]
 
 export const companiesById = Object.fromEntries(companies.map(c => [c.id, c]))
 
