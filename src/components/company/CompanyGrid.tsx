@@ -1,4 +1,4 @@
-import { Company } from '../../types'
+import { Company, Job } from '../../types'
 import { jobsByCompany } from '../../data'
 import { useFilterStore } from '../../store/filterStore'
 import { CompanyCard } from './CompanyCard'
@@ -6,9 +6,10 @@ import { CompanyCard } from './CompanyCard'
 interface CompanyGridProps {
   companies: Company[]
   onSelect: (id: string) => void
+  extraJobsByCompany?: Record<string, Job[]>
 }
 
-export function CompanyGrid({ companies, onSelect }: CompanyGridProps) {
+export function CompanyGrid({ companies, onSelect, extraJobsByCompany }: CompanyGridProps) {
   const clearAll = useFilterStore(s => s.clearAll)
 
   if (companies.length === 0) {
@@ -32,7 +33,7 @@ export function CompanyGrid({ companies, onSelect }: CompanyGridProps) {
         <CompanyCard
           key={company.id}
           company={company}
-          jobCount={jobsByCompany[company.id]?.length ?? 0}
+          jobCount={(jobsByCompany[company.id]?.length ?? 0) + (extraJobsByCompany?.[company.id]?.length ?? 0)}
           onClick={onSelect}
         />
       ))}

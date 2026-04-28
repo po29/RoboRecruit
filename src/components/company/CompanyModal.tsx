@@ -7,6 +7,7 @@ import { Modal } from '../ui/Modal'
 interface CompanyModalProps {
   companyId: string | null
   onClose: () => void
+  extraJobsByCompany?: Record<string, import('../../types').Job[]>
 }
 
 const techCategoryOrder = [
@@ -33,9 +34,11 @@ const levelColors: Record<string, string> = {
   Manager: 'text-pink-400',
 }
 
-export function CompanyModal({ companyId, onClose }: CompanyModalProps) {
+export function CompanyModal({ companyId, onClose, extraJobsByCompany }: CompanyModalProps) {
   const company = useCompanyById(companyId)
-  const jobs = companyId ? (jobsByCompany[companyId] ?? []) : []
+  const jobs = companyId
+    ? [...(jobsByCompany[companyId] ?? []), ...(extraJobsByCompany?.[companyId] ?? [])]
+    : []
 
   if (!company) return <Modal open={false} onClose={onClose}>{null}</Modal>
 

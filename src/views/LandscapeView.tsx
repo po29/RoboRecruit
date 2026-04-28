@@ -10,7 +10,7 @@ import { useUserCompanies } from '../hooks/useUserCompanies'
 export function LandscapeView() {
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const filtered = useFilteredCompanies()
-  const { userCompanies, addCompany } = useUserCompanies()
+  const { userCompanies, userJobsByCompany, addCompany } = useUserCompanies()
 
   const allShown = [...filtered, ...userCompanies]
   const totalCount = companies.length + userCompanies.length
@@ -35,11 +35,11 @@ export function LandscapeView() {
           <div className="mb-6">
             <AddCompanyForm onAdd={addCompany} />
           </div>
-          <CompanyGrid companies={allShown} onSelect={setSelectedId} />
+          <CompanyGrid companies={allShown} onSelect={setSelectedId} extraJobsByCompany={userJobsByCompany} />
         </div>
       </div>
 
-      <CompanyModal companyId={selectedId} onClose={() => setSelectedId(null)} />
+      <CompanyModal companyId={selectedId} onClose={() => setSelectedId(null)} extraJobsByCompany={userJobsByCompany} />
     </div>
   )
 }
