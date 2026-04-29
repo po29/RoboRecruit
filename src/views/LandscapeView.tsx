@@ -33,7 +33,7 @@ export function LandscapeView() {
 
         <div className="flex-1 overflow-auto p-4">
           <div className="mb-6">
-            <AddCompanyForm onAdd={addCompany} />
+            <AddCompanyForm onAdd={(name, website, jobs, extra) => addCompany(name, website, jobs, extra)} />
           </div>
           <CompanyGrid companies={allShown} onSelect={setSelectedId} extraJobsByCompany={userJobsByCompany} />
         </div>

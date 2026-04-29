@@ -1,5 +1,14 @@
 import { useState, useCallback } from 'react'
-import { Company, CompanyStage, Job } from '../types'
+import { Company, CompanyStage, Job, ProblemDomain, TechItem, Product } from '../types'
+
+export interface UserCompanyExtra {
+  hq?: string
+  description?: string
+  logo?: string
+  problems?: ProblemDomain[]
+  techStack?: TechItem[]
+  products?: Product[]
+}
 
 const COMPANIES_KEY = 'roborecruit:userCompanies'
 const JOBS_KEY = 'roborecruit:userJobs'
@@ -37,21 +46,21 @@ export function useUserCompanies() {
     groupByCompany(loadJobs())
   )
 
-  const addCompany = useCallback((name: string, website: string, jobs: Job[] = []) => {
+  const addCompany = useCallback((name: string, website: string, jobs: Job[] = [], extra: UserCompanyExtra = {}) => {
     const id = `user-${slugify(name)}-${Date.now()}`
     const taggedJobs = jobs.map(j => ({ ...j, companyId: id }))
 
     const entry: Company = {
       id,
       name: name.trim(),
-      logo: '',
+      logo: extra.logo ?? '',
       website: website.trim(),
-      hq: '',
+      hq: extra.hq ?? '',
       stage: CompanyStage.SeriesA,
-      problems: [],
-      techStack: [],
-      products: [],
-      description: '',
+      problems: extra.problems ?? [],
+      techStack: extra.techStack ?? [],
+      products: extra.products ?? [],
+      description: extra.description ?? '',
       jobCount: taggedJobs.length,
       userAdded: true,
     }
