@@ -23724,5 +23724,23 @@
     "jobCount": 38,
     "discoveredDate": "2026-04-28",
     "enriched": true
+  },
+  {
+    "id": "optimal-staffing",
+    "name": "Optimal Staffing",
+    "logo": "",
+    "website": "",
+    "hq": "Warren, MI",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Warren, MI. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-01",
+    "enriched": true
   }
 ]
