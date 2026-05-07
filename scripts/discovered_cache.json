@@ -23905,5 +23905,23 @@
     "jobCount": 2,
     "discoveredDate": "2026-05-06",
     "enriched": true
+  },
+  {
+    "id": "vecna-robotics",
+    "name": "Vecna Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "Waltham, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.ManufacturingAuto"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in manufacturing automation. Based in Waltham, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-07",
+    "enriched": true
   }
 ]
