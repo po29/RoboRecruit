@@ -23923,5 +23923,59 @@
     "jobCount": 2,
     "discoveredDate": "2026-05-07",
     "enriched": true
+  },
+  {
+    "id": "dexmate",
+    "name": "Dexmate",
+    "logo": "",
+    "website": "",
+    "hq": "Santa Clara, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Santa Clara, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-08",
+    "enriched": true
+  },
+  {
+    "id": "brain-corp",
+    "name": "Brain Corp",
+    "logo": "",
+    "website": "",
+    "hq": "San Diego, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Diego, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-08",
+    "enriched": true
+  },
+  {
+    "id": "booz-allen-hamilton",
+    "name": "Booz Allen Hamilton",
+    "logo": "",
+    "website": "",
+    "hq": "McLean, VA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in McLean, VA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-08",
+    "enriched": true
   }
 ]
