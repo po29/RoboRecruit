@@ -24762,5 +24762,41 @@
     "jobCount": 2,
     "discoveredDate": "2026-05-11",
     "enriched": true
+  },
+  {
+    "id": "proper-voltage",
+    "name": "Proper Voltage",
+    "logo": "",
+    "website": "",
+    "hq": "Carlsbad, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Carlsbad, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-13",
+    "enriched": true
+  },
+  {
+    "id": "autonomous-solutions-inc-asi",
+    "name": "Autonomous Solutions, Inc. (ASI)",
+    "logo": "",
+    "website": "",
+    "hq": "Fort Worth, TX",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Fort Worth, TX. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-13",
+    "enriched": true
   }
 ]
