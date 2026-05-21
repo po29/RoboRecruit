@@ -27497,5 +27497,244 @@
     "jobCount": 2,
     "discoveredDate": "2026-05-20",
     "enriched": true
+  },
+  {
+    "id": "humble-robotics",
+    "name": "Humble Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "lv-4b87e4bb-255c-4df6-89bb-0283f48b292c",
+        "companyId": "humble-robotics",
+        "title": "Calibration and Localization Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-21",
+        "url": "https://jobs.lever.co/humble-robotics/4b87e4bb-255c-4df6-89bb-0283f48b292c"
+      },
+      {
+        "id": "lv-2ec28360-6769-4f02-b320-2a26ceb92ab1",
+        "companyId": "humble-robotics",
+        "title": "Controls Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-21",
+        "url": "https://jobs.lever.co/humble-robotics/2ec28360-6769-4f02-b320-2a26ceb92ab1"
+      },
+      {
+        "id": "lv-f187c481-ece9-4ea5-8cce-3bcd96f7001e",
+        "companyId": "humble-robotics",
+        "title": "Data Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-21",
+        "url": "https://jobs.lever.co/humble-robotics/f187c481-ece9-4ea5-8cce-3bcd96f7001e"
+      },
+      {
+        "id": "lv-6f8240e8-fa00-4efa-9b22-7dd922d05cec",
+        "companyId": "humble-robotics",
+        "title": "Electrical Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2025-12-02",
+        "url": "https://jobs.lever.co/humble-robotics/6f8240e8-fa00-4efa-9b22-7dd922d05cec"
+      },
+      {
+        "id": "lv-d5dd58ed-fdb1-4018-92cc-2c8bd6709042",
+        "companyId": "humble-robotics",
+        "title": "Mechanical Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-03-17",
+        "url": "https://jobs.lever.co/humble-robotics/d5dd58ed-fdb1-4018-92cc-2c8bd6709042"
+      },
+      {
+        "id": "lv-35986102-b37f-411f-baf4-3e78f3b063e7",
+        "companyId": "humble-robotics",
+        "title": "ML Engineer, Foundation Models",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-01",
+        "url": "https://jobs.lever.co/humble-robotics/35986102-b37f-411f-baf4-3e78f3b063e7"
+      },
+      {
+        "id": "lv-d7e0537c-1576-4156-9e72-78ca218df6bc",
+        "companyId": "humble-robotics",
+        "title": "ML Infra Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-21",
+        "url": "https://jobs.lever.co/humble-robotics/d7e0537c-1576-4156-9e72-78ca218df6bc"
+      },
+      {
+        "id": "lv-23b79a70-0ace-49a7-baff-73ac884bfd9c",
+        "companyId": "humble-robotics",
+        "title": "Onboard AV Software Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-14",
+        "url": "https://jobs.lever.co/humble-robotics/23b79a70-0ace-49a7-baff-73ac884bfd9c"
+      },
+      {
+        "id": "lv-21553032-f154-403b-9e77-98d56b2318ae",
+        "companyId": "humble-robotics",
+        "title": "Senior Chassis Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-10",
+        "url": "https://jobs.lever.co/humble-robotics/21553032-f154-403b-9e77-98d56b2318ae"
+      },
+      {
+        "id": "lv-af984303-2ef8-4d99-9cc0-f9312fc5bd67",
+        "companyId": "humble-robotics",
+        "title": "Senior Embedded Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-03-10",
+        "url": "https://jobs.lever.co/humble-robotics/af984303-2ef8-4d99-9cc0-f9312fc5bd67"
+      },
+      {
+        "id": "lv-02c3c6fb-a3cd-4a9f-a1ec-b8a64be9b95a",
+        "companyId": "humble-robotics",
+        "title": "Senior Powertrain Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-10",
+        "url": "https://jobs.lever.co/humble-robotics/02c3c6fb-a3cd-4a9f-a1ec-b8a64be9b95a"
+      },
+      {
+        "id": "lv-d8e20b86-36f7-4bdd-a746-d9b6c7fda4a2",
+        "companyId": "humble-robotics",
+        "title": "Senior R&D Technician",
+        "level": "Senior",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-02-12",
+        "url": "https://jobs.lever.co/humble-robotics/d8e20b86-36f7-4bdd-a746-d9b6c7fda4a2"
+      },
+      {
+        "id": "lv-e8a5ac44-71b9-4da3-a8fa-719f33ec5d9c",
+        "companyId": "humble-robotics",
+        "title": "Senior/Staff Electrical Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-03-10",
+        "url": "https://jobs.lever.co/humble-robotics/e8a5ac44-71b9-4da3-a8fa-719f33ec5d9c"
+      },
+      {
+        "id": "lv-fa30b90e-d652-4bc3-9835-34ad7ce5b886",
+        "companyId": "humble-robotics",
+        "title": "Senior/Staff Hardware Systems Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-20",
+        "url": "https://jobs.lever.co/humble-robotics/fa30b90e-d652-4bc3-9835-34ad7ce5b886"
+      },
+      {
+        "id": "lv-9aaadbdb-388a-4b6c-acab-d61af563c824",
+        "companyId": "humble-robotics",
+        "title": "Senior/Staff Hardware Validation Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-20",
+        "url": "https://jobs.lever.co/humble-robotics/9aaadbdb-388a-4b6c-acab-d61af563c824"
+      },
+      {
+        "id": "lv-068bf880-f307-4da2-9e1a-6a07a30bb095",
+        "companyId": "humble-robotics",
+        "title": "Simulation Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-21",
+        "url": "https://jobs.lever.co/humble-robotics/068bf880-f307-4da2-9e1a-6a07a30bb095"
+      },
+      {
+        "id": "lv-910e6e24-e644-42d8-aa08-18e87d535cbd",
+        "companyId": "humble-robotics",
+        "title": "Software Engineer, Autonomous Systems",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-01",
+        "url": "https://jobs.lever.co/humble-robotics/910e6e24-e644-42d8-aa08-18e87d535cbd"
+      },
+      {
+        "id": "lv-c80c5998-dae1-46fc-aba8-a20aa144e21c",
+        "companyId": "humble-robotics",
+        "title": "Staff Functional Safety Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-04-20",
+        "url": "https://jobs.lever.co/humble-robotics/c80c5998-dae1-46fc-aba8-a20aa144e21c"
+      },
+      {
+        "id": "lv-f459e36c-db8f-423f-807e-733b60f7ed4d",
+        "companyId": "humble-robotics",
+        "title": "Technical Program Manager",
+        "level": "Manager",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-05-19",
+        "url": "https://jobs.lever.co/humble-robotics/f459e36c-db8f-423f-807e-733b60f7ed4d"
+      },
+      {
+        "id": "lv-cbde53eb-892d-4c8b-aeb7-893e10ef5c5d",
+        "companyId": "humble-robotics",
+        "title": "Vehicle Systems Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-03-26",
+        "url": "https://jobs.lever.co/humble-robotics/cbde53eb-892d-4c8b-aeb7-893e10ef5c5d"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 20,
+    "discoveredDate": "2026-05-21",
+    "enriched": true
   }
 ]
