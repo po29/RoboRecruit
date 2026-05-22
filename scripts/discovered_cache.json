@@ -27736,5 +27736,178 @@
     "jobCount": 20,
     "discoveredDate": "2026-05-21",
     "enriched": true
+  },
+  {
+    "id": "fort-robotics",
+    "name": "FORT Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "Palo Alto, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-4692555005",
+        "companyId": "fort-robotics",
+        "title": "Account Executive-Europe ",
+        "level": "Mid",
+        "skills": [],
+        "location": "London",
+        "remote": false,
+        "postedDate": "2026-05-05",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4692555005"
+      },
+      {
+        "id": "gh-4694374005",
+        "companyId": "fort-robotics",
+        "title": "Account Executive Southeast & Central USA",
+        "level": "Mid",
+        "skills": [],
+        "location": "Remote",
+        "remote": true,
+        "postedDate": "2026-05-11",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4694374005"
+      },
+      {
+        "id": "gh-4698357005",
+        "companyId": "fort-robotics",
+        "title": "Account Executive, USA",
+        "level": "Mid",
+        "skills": [],
+        "location": "United States",
+        "remote": false,
+        "postedDate": "2026-05-21",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4698357005"
+      },
+      {
+        "id": "gh-4691633005",
+        "companyId": "fort-robotics",
+        "title": "Associate Accountant ",
+        "level": "Junior",
+        "skills": [],
+        "location": "Philadelphia, PA",
+        "remote": false,
+        "postedDate": "2026-05-01",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4691633005"
+      },
+      {
+        "id": "gh-4698351005",
+        "companyId": "fort-robotics",
+        "title": "Customer Solutions Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "London ",
+        "remote": false,
+        "postedDate": "2026-05-21",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4698351005"
+      },
+      {
+        "id": "gh-4684030005",
+        "companyId": "fort-robotics",
+        "title": "Infrastructure Engineer - HIL",
+        "level": "Mid",
+        "skills": [],
+        "location": "Philadelphia, PA; Pittsburgh, PA; Boston, MA",
+        "remote": false,
+        "postedDate": "2026-04-21",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4684030005"
+      },
+      {
+        "id": "gh-4681372005",
+        "companyId": "fort-robotics",
+        "title": "Manager, Strategic Sourcing & Supply Chain",
+        "level": "Manager",
+        "skills": [],
+        "location": "Philadelphia, PA, United States",
+        "remote": false,
+        "postedDate": "2026-05-21",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4681372005"
+      },
+      {
+        "id": "gh-4698352005",
+        "companyId": "fort-robotics",
+        "title": "Senior Account Executive, Canada",
+        "level": "Senior",
+        "skills": [],
+        "location": "Remote",
+        "remote": true,
+        "postedDate": "2026-05-21",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4698352005"
+      },
+      {
+        "id": "gh-4619244005",
+        "companyId": "fort-robotics",
+        "title": "Senior Account Executive, West Coast",
+        "level": "Senior",
+        "skills": [],
+        "location": "Remote",
+        "remote": true,
+        "postedDate": "2026-02-23",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4619244005"
+      },
+      {
+        "id": "gh-4678006005",
+        "companyId": "fort-robotics",
+        "title": "Sr. Customer Solutions Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "San Francisco ",
+        "remote": false,
+        "postedDate": "2026-05-21",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4678006005"
+      },
+      {
+        "id": "gh-4677945005",
+        "companyId": "fort-robotics",
+        "title": "Sr. Customer Solutions Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Philadelphia, PA, United States",
+        "remote": false,
+        "postedDate": "2026-05-21",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4677945005"
+      },
+      {
+        "id": "gh-4693394005",
+        "companyId": "fort-robotics",
+        "title": "Sr. Embedded Software Engineer I ",
+        "level": "Senior",
+        "skills": [],
+        "location": "Philadelphia, PA ",
+        "remote": false,
+        "postedDate": "2026-05-07",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4693394005"
+      },
+      {
+        "id": "gh-4698725005",
+        "companyId": "fort-robotics",
+        "title": "Sr. Product Manager, Ecosystem & Partnerships ",
+        "level": "Senior",
+        "skills": [],
+        "location": "United States",
+        "remote": false,
+        "postedDate": "2026-05-21",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4698725005"
+      },
+      {
+        "id": "gh-4691279005",
+        "companyId": "fort-robotics",
+        "title": "Technical Product Content Lead",
+        "level": "Lead",
+        "skills": [],
+        "location": "Remote",
+        "remote": true,
+        "postedDate": "2026-04-30",
+        "url": "https://job-boards.greenhouse.io/fortrobotics/jobs/4691279005"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Palo Alto, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 14,
+    "discoveredDate": "2026-05-22",
+    "enriched": true
   }
 ]
