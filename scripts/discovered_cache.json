@@ -29711,5 +29711,41 @@
     "jobCount": 27,
     "discoveredDate": "2026-05-23",
     "enriched": true
+  },
+  {
+    "id": "evona",
+    "name": "EVONA",
+    "logo": "",
+    "website": "",
+    "hq": "Denver, CO",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Denver, CO. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-24",
+    "enriched": true
+  },
+  {
+    "id": "skild-ai",
+    "name": "Skild AI",
+    "logo": "",
+    "website": "",
+    "hq": "San Mateo, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.MobileManipulation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in mobile manipulation. Based in San Mateo, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-24",
+    "enriched": true
   }
 ]
