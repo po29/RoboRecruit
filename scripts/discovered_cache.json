@@ -29747,5 +29747,196 @@
     "jobCount": 2,
     "discoveredDate": "2026-05-24",
     "enriched": true
+  },
+  {
+    "id": "clockwork-acquired-by-10beauty",
+    "name": "Clockwork (acquired by 10Beauty)",
+    "logo": "",
+    "website": "",
+    "hq": "Burlington, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Burlington, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-28",
+    "enriched": true
+  },
+  {
+    "id": "10beauty",
+    "name": "10Beauty",
+    "logo": "",
+    "website": "",
+    "hq": "Burlington, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-5125375007",
+        "companyId": "10beauty",
+        "title": "Director of Growth",
+        "level": "Manager",
+        "skills": [],
+        "location": "Burlington, Massachusetts, United States; Remote",
+        "remote": true,
+        "postedDate": "2026-05-26",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5125375007"
+      },
+      {
+        "id": "gh-5138228007",
+        "companyId": "10beauty",
+        "title": "Embedded Software Engineer ",
+        "level": "Mid",
+        "skills": [],
+        "location": "Burlington, Massachusetts, United States",
+        "remote": false,
+        "postedDate": "2026-05-26",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5138228007"
+      },
+      {
+        "id": "gh-5018711007",
+        "companyId": "10beauty",
+        "title": "Field Service Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Burlington, Massachusetts, United States",
+        "remote": false,
+        "postedDate": "2026-05-18",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5018711007"
+      },
+      {
+        "id": "gh-5078899007",
+        "companyId": "10beauty",
+        "title": "Field Service Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Chicago, Illinois, United States",
+        "remote": false,
+        "postedDate": "2026-05-18",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5078899007"
+      },
+      {
+        "id": "gh-5054838007",
+        "companyId": "10beauty",
+        "title": "Licensed Cosmetologist/Nail Tech (Everett, MA)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Everett, Massachusetts, United States",
+        "remote": false,
+        "postedDate": "2026-05-18",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5054838007"
+      },
+      {
+        "id": "gh-5131810007",
+        "companyId": "10beauty",
+        "title": "Licensed Cosmetologist/Nail Tech (Natick, MA)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Natick, Massachusetts, United States",
+        "remote": false,
+        "postedDate": "2026-05-26",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5131810007"
+      },
+      {
+        "id": "gh-5140935007",
+        "companyId": "10beauty",
+        "title": "Licensed Cosmetologist/Nail Tech (Westwood, MA)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Westwood, Massachusetts, United States",
+        "remote": false,
+        "postedDate": "2026-05-18",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5140935007"
+      },
+      {
+        "id": "gh-5142885007",
+        "companyId": "10beauty",
+        "title": "Operations Program Manager (Suppy Chain)",
+        "level": "Manager",
+        "skills": [],
+        "location": "Burlington, Massachusetts, United States",
+        "remote": false,
+        "postedDate": "2026-05-27",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5142885007"
+      },
+      {
+        "id": "gh-5148426007",
+        "companyId": "10beauty",
+        "title": "Principal Embedded Software Engineer",
+        "level": "Principal",
+        "skills": [],
+        "location": "Burlington, Massachusetts, United States",
+        "remote": false,
+        "postedDate": "2026-05-27",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5148426007"
+      },
+      {
+        "id": "gh-5142861007",
+        "companyId": "10beauty",
+        "title": "Program Manager ",
+        "level": "Manager",
+        "skills": [],
+        "location": "Burlington, Massachusetts, United States",
+        "remote": false,
+        "postedDate": "2026-05-27",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5142861007"
+      },
+      {
+        "id": "gh-5139282007",
+        "companyId": "10beauty",
+        "title": "Senior Data Infrastructure Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Burlington, Massachusetts, United States",
+        "remote": false,
+        "postedDate": "2026-05-26",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5139282007"
+      },
+      {
+        "id": "gh-5137112007",
+        "companyId": "10beauty",
+        "title": "Senior Software Engineer - Cloud Applications",
+        "level": "Senior",
+        "skills": [],
+        "location": "Burlington, Massachusetts, United States; Remote",
+        "remote": true,
+        "postedDate": "2026-05-26",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5137112007"
+      },
+      {
+        "id": "gh-5138504007",
+        "companyId": "10beauty",
+        "title": "Software QA Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Burlington, Massachusetts, United States",
+        "remote": false,
+        "postedDate": "2026-05-26",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5138504007"
+      },
+      {
+        "id": "gh-5136517007",
+        "companyId": "10beauty",
+        "title": "Technical Support Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Burlington, Massachusetts, United States",
+        "remote": false,
+        "postedDate": "2026-05-27",
+        "url": "https://job-boards.greenhouse.io/10beauty/jobs/5136517007"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Burlington, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 14,
+    "discoveredDate": "2026-05-28",
+    "enriched": true
   }
 ]
