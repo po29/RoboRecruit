@@ -29938,5 +29938,23 @@
     "jobCount": 14,
     "discoveredDate": "2026-05-28",
     "enriched": true
+  },
+  {
+    "id": "nimble",
+    "name": "Nimble",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-30",
+    "enriched": true
   }
 ]
