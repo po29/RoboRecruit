@@ -29956,5 +29956,185 @@
     "jobCount": 2,
     "discoveredDate": "2026-05-30",
     "enriched": true
+  },
+  {
+    "id": "motion-recruitment",
+    "name": "Motion Recruitment",
+    "logo": "",
+    "website": "",
+    "hq": "Woburn, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Woburn, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-31",
+    "enriched": true
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "logo": "",
+    "website": "",
+    "hq": "Redmond, WA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.EmbodiedAI"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in embodied AI. Based in Redmond, WA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-31",
+    "enriched": true
+  },
+  {
+    "id": "honda-research-institute-usa-inc",
+    "name": "Honda Research Institute USA, Inc.",
+    "logo": "",
+    "website": "",
+    "hq": "San Jose, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.MobileManipulation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in mobile manipulation. Based in San Jose, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-31",
+    "enriched": true
+  },
+  {
+    "id": "chef-robotics",
+    "name": "Chef Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-31",
+    "enriched": true
+  },
+  {
+    "id": "boost-robotics",
+    "name": "Boost Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "Cambridge, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Cambridge, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-31",
+    "enriched": true
+  },
+  {
+    "id": "samsung-research-america-sra",
+    "name": "Samsung Research America (SRA)",
+    "logo": "",
+    "website": "",
+    "hq": "Mountain View, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Mountain View, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-31",
+    "enriched": true
+  },
+  {
+    "id": "arm",
+    "name": "Arm",
+    "logo": "",
+    "website": "",
+    "hq": "Austin, TX",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.SafetyCollaboration"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in safety & collaboration. Based in Austin, TX. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 3,
+    "discoveredDate": "2026-05-31",
+    "enriched": true
+  },
+  {
+    "id": "lam-research",
+    "name": "Lam Research",
+    "logo": "",
+    "website": "",
+    "hq": "Fremont, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Fremont, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-31",
+    "enriched": true
+  },
+  {
+    "id": "amazon-science",
+    "name": "Amazon Science",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-31",
+    "enriched": true
+  },
+  {
+    "id": "intuitive",
+    "name": "Intuitive",
+    "logo": "",
+    "website": "",
+    "hq": "Sunnyvale, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Sunnyvale, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-05-31",
+    "enriched": true
   }
 ]
