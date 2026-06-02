@@ -30172,5 +30172,201 @@
     "jobCount": 2,
     "discoveredDate": "2026-06-01",
     "enriched": true
+  },
+  {
+    "id": "fruition-group-us",
+    "name": "Fruition Group US",
+    "logo": "",
+    "website": "",
+    "hq": "Colorado, United States",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Colorado, United States. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-02",
+    "enriched": true
+  },
+  {
+    "id": "horizon-surgical-systems",
+    "name": "Horizon Surgical Systems",
+    "logo": "",
+    "website": "",
+    "hq": "Los Angeles, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [
+      {
+        "name": "C++",
+        "category": "TechCategory.Language"
+      }
+    ],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-5144694007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Materials Lead",
+        "level": "Lead",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-05-27",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5144694007"
+      },
+      {
+        "id": "gh-5136852007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Program Lead",
+        "level": "Lead",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-05-13",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5136852007"
+      },
+      {
+        "id": "gh-4785988007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Regulatory and Clinical Lead",
+        "level": "Lead",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2025-07-17",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/4785988007"
+      },
+      {
+        "id": "gh-5145514007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Senior Electro-Mechanical Technician",
+        "level": "Senior",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-05-22",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5145514007"
+      },
+      {
+        "id": "gh-5001728007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Senior NPI and Manufacturing Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2025-12-09",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5001728007"
+      },
+      {
+        "id": "gh-5126526007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Senior Quality Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-05-01",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5126526007"
+      },
+      {
+        "id": "gh-5093603007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Senior Robotics C++ Engineer — Controls Platform",
+        "level": "Senior",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-03-30",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5093603007"
+      },
+      {
+        "id": "gh-5093602007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Senior/Staff Embedded Software Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-03-30",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5093602007"
+      },
+      {
+        "id": "gh-5105825007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Senior/Staff/Principal C++ Software Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-04-10",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5105825007"
+      },
+      {
+        "id": "gh-4734806007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Senior/Staff/Principal Imaging System Software Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2025-05-22",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/4734806007"
+      },
+      {
+        "id": "gh-5142437007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Senior/Staff/Principal Mechanical Engineer - Robotic Hardware",
+        "level": "Staff",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-05-27",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5142437007"
+      },
+      {
+        "id": "gh-5124714007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Senior/ Staff/ Principal Mechanical Engineer - Surgical Instruments/Consumables",
+        "level": "Staff",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-05-19",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5124714007"
+      },
+      {
+        "id": "gh-5105810007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Senior/Staff/Principal Qt C++ Software Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-04-10",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5105810007"
+      },
+      {
+        "id": "gh-5139560007",
+        "companyId": "horizon-surgical-systems",
+        "title": "Senior/Staff Robotics and Controls Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-05-20",
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5139560007"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Los Angeles, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 14,
+    "discoveredDate": "2026-06-02",
+    "enriched": true
   }
 ]
