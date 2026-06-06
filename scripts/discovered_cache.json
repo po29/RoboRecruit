@@ -30386,5 +30386,207 @@
     "jobCount": 3,
     "discoveredDate": "2026-06-05",
     "enriched": true
+  },
+  {
+    "id": "joby-aviation",
+    "name": "Joby Aviation",
+    "logo": "",
+    "website": "",
+    "hq": "Santa Cruz, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Santa Cruz, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-06",
+    "enriched": true
+  },
+  {
+    "id": "fulfil",
+    "name": "Fulfil",
+    "logo": "",
+    "website": "",
+    "hq": "Mountain View, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-7759235003",
+        "companyId": "fulfil",
+        "title": "Electrical Engineer Intern",
+        "level": "Intern",
+        "skills": [],
+        "location": "Mountain View, CA",
+        "remote": false,
+        "postedDate": "2026-06-01",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7759235003"
+      },
+      {
+        "id": "gh-7724087003",
+        "companyId": "fulfil",
+        "title": "Machine Safety and Compliance Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Mountain View, CA",
+        "remote": false,
+        "postedDate": "2026-05-06",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7724087003"
+      },
+      {
+        "id": "gh-7605339003",
+        "companyId": "fulfil",
+        "title": "Mechanical Systems Test Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Mountain View, CA",
+        "remote": false,
+        "postedDate": "2026-05-26",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7605339003"
+      },
+      {
+        "id": "gh-7731526003",
+        "companyId": "fulfil",
+        "title": "Night Shift Automation and Robotics Maintenance Technician",
+        "level": "Mid",
+        "skills": [],
+        "location": "Plymouth Meeting, PA",
+        "remote": false,
+        "postedDate": "2026-05-22",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7731526003"
+      },
+      {
+        "id": "gh-7701307003",
+        "companyId": "fulfil",
+        "title": "Night Shift Automation and Robotics Maintenance Technician",
+        "level": "Mid",
+        "skills": [],
+        "location": "Hillsboro, Oregon",
+        "remote": false,
+        "postedDate": "2026-05-13",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7701307003"
+      },
+      {
+        "id": "gh-7724966003",
+        "companyId": "fulfil",
+        "title": "Night Shift Maintenance Supervisor",
+        "level": "Mid",
+        "skills": [],
+        "location": "Plano, Texas",
+        "remote": false,
+        "postedDate": "2026-05-06",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7724966003"
+      },
+      {
+        "id": "gh-7583205003",
+        "companyId": "fulfil",
+        "title": "PCBA & Electronics Rework Technician",
+        "level": "Mid",
+        "skills": [],
+        "location": "Mountain View, CA",
+        "remote": false,
+        "postedDate": "2026-05-06",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7583205003"
+      },
+      {
+        "id": "gh-7726462003",
+        "companyId": "fulfil",
+        "title": "Robotics firmware Engineer II",
+        "level": "Mid",
+        "skills": [],
+        "location": "Mountain View, CA",
+        "remote": false,
+        "postedDate": "2026-05-06",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7726462003"
+      },
+      {
+        "id": "gh-7724088003",
+        "companyId": "fulfil",
+        "title": "Senior Machine Safety and Compliance Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Mountain View, CA",
+        "remote": false,
+        "postedDate": "2026-05-06",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7724088003"
+      },
+      {
+        "id": "gh-5014685003",
+        "companyId": "fulfil",
+        "title": "Senior / Staff Mechanical Engineer - R&D",
+        "level": "Staff",
+        "skills": [],
+        "location": "Mountain View, CA",
+        "remote": false,
+        "postedDate": "2026-05-06",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/5014685003"
+      },
+      {
+        "id": "gh-7721956003",
+        "companyId": "fulfil",
+        "title": "Site Automation Lead ",
+        "level": "Lead",
+        "skills": [],
+        "location": "Plano, Texas",
+        "remote": false,
+        "postedDate": "2026-05-06",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7721956003"
+      },
+      {
+        "id": "gh-7695733003",
+        "companyId": "fulfil",
+        "title": "Software Engineering Manager, Computer Vision",
+        "level": "Manager",
+        "skills": [],
+        "location": "Hybrid",
+        "remote": false,
+        "postedDate": "2026-05-06",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7695733003"
+      },
+      {
+        "id": "gh-7563476003",
+        "companyId": "fulfil",
+        "title": "Staff Electrical Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "Mountain View, CA",
+        "remote": false,
+        "postedDate": "2026-05-06",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7563476003"
+      },
+      {
+        "id": "gh-7680955003",
+        "companyId": "fulfil",
+        "title": "Staff Robotics Software Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "Mountain View, CA",
+        "remote": false,
+        "postedDate": "2026-05-06",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7680955003"
+      },
+      {
+        "id": "gh-7727885003",
+        "companyId": "fulfil",
+        "title": "Supplier Quality Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Hybrid",
+        "remote": false,
+        "postedDate": "2026-05-07",
+        "url": "https://job-boards.greenhouse.io/fulfil/jobs/7727885003"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Mountain View, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 15,
+    "discoveredDate": "2026-06-06",
+    "enriched": true
   }
 ]
