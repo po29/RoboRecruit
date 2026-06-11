@@ -36244,5 +36244,536 @@
     "jobCount": 2,
     "discoveredDate": "2026-06-10",
     "enriched": true
+  },
+  {
+    "id": "ghost-robotics",
+    "name": "Ghost Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "Philadelphia, PA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.HumanoidRobotics",
+      "ProblemDomain.MobileManipulation"
+    ],
+    "techStack": [
+      {
+        "name": "C++",
+        "category": "TechCategory.Language"
+      }
+    ],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-4698089005",
+        "companyId": "ghost-robotics",
+        "title": "Chief of Staff",
+        "level": "Staff",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-05-26",
+        "url": "https://www.ghst.io/jobs?gh_jid=4698089005"
+      },
+      {
+        "id": "gh-4669716005",
+        "companyId": "ghost-robotics",
+        "title": "Controller",
+        "level": "Mid",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-05-20",
+        "url": "https://www.ghst.io/jobs?gh_jid=4669716005"
+      },
+      {
+        "id": "gh-4694683005",
+        "companyId": "ghost-robotics",
+        "title": "Senior Director, Financial Planning & Analysis",
+        "level": "Senior",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-06-02",
+        "url": "https://www.ghst.io/jobs?gh_jid=4694683005"
+      },
+      {
+        "id": "gh-4699795005",
+        "companyId": "ghost-robotics",
+        "title": "Senior Manager, Financial Planning & Analysis",
+        "level": "Senior",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-06-02",
+        "url": "https://www.ghst.io/jobs?gh_jid=4699795005"
+      },
+      {
+        "id": "gh-4698068005",
+        "companyId": "ghost-robotics",
+        "title": "Senior Software Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Los Angeles, California",
+        "remote": false,
+        "postedDate": "2026-05-20",
+        "url": "https://www.ghst.io/jobs?gh_jid=4698068005"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in humanoid robotics, mobile manipulation. Based in Philadelphia, PA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 5,
+    "discoveredDate": "2026-06-11",
+    "enriched": true
+  },
+  {
+    "id": "lunar-outpost",
+    "name": "Lunar Outpost",
+    "logo": "",
+    "website": "",
+    "hq": "Golden, CO",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Golden, CO. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-11",
+    "enriched": true
+  },
+  {
+    "id": "atoms",
+    "name": "Atoms",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-8538693002",
+        "companyId": "atoms",
+        "title": "Associate General Counsel - Global Corporate and M&A - Los Angeles, CA",
+        "level": "Junior",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8538693002"
+      },
+      {
+        "id": "gh-8041037002",
+        "companyId": "atoms",
+        "title": "Backend Engineer - Infrastructure - Vilnius, LTU",
+        "level": "Mid",
+        "skills": [],
+        "location": "Vilnius, LTU",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8041037002"
+      },
+      {
+        "id": "gh-8453303002",
+        "companyId": "atoms",
+        "title": "Benefits Manager- San Francisco, CA",
+        "level": "Manager",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8453303002"
+      },
+      {
+        "id": "gh-8560167002",
+        "companyId": "atoms",
+        "title": "Corporate Recruiter - Bogotá, COL",
+        "level": "Mid",
+        "skills": [],
+        "location": "Bogotá, COL",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8560167002"
+      },
+      {
+        "id": "gh-8541625002",
+        "companyId": "atoms",
+        "title": "Electrical Engineer - San Francisco, CA",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-10",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8541625002"
+      },
+      {
+        "id": "gh-8504724002",
+        "companyId": "atoms",
+        "title": "Employee Relations Associate - Bogotá, COL",
+        "level": "Junior",
+        "skills": [],
+        "location": "Bogotá, COL",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8504724002"
+      },
+      {
+        "id": "gh-8538676002",
+        "companyId": "atoms",
+        "title": "Finance Analytics - Los Angeles, CA",
+        "level": "Mid",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8538676002"
+      },
+      {
+        "id": "gh-8538673002",
+        "companyId": "atoms",
+        "title": "Fixed Asset Accountant  - Makati City, PH",
+        "level": "Mid",
+        "skills": [],
+        "location": "Makati City, PH",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8538673002"
+      },
+      {
+        "id": "gh-8499152002",
+        "companyId": "atoms",
+        "title": " Head of Legal APACx",
+        "level": "Mid",
+        "skills": [],
+        "location": "Singapore",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8499152002"
+      },
+      {
+        "id": "gh-8558410002",
+        "companyId": "atoms",
+        "title": "Integrations Engineer - Sao Paulo, BRA",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sao Paulo, BRA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8558410002"
+      },
+      {
+        "id": "gh-7999650002",
+        "companyId": "atoms",
+        "title": "Lead Product Designer, Delivery & Logistics - New York, NY",
+        "level": "Lead",
+        "skills": [],
+        "location": "New York, NY",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/7999650002"
+      },
+      {
+        "id": "gh-8502664002",
+        "companyId": "atoms",
+        "title": "Lead Workday Financials Analyst - Los Angeles, CA",
+        "level": "Lead",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8502664002"
+      },
+      {
+        "id": "gh-8538675002",
+        "companyId": "atoms",
+        "title": " Lead Workday Financials Analyst- Makati City, PH",
+        "level": "Lead",
+        "skills": [],
+        "location": "Makati City, PH",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8538675002"
+      },
+      {
+        "id": "gh-8517777002",
+        "companyId": "atoms",
+        "title": "Machine Learning Engineer - Mountain View, CA",
+        "level": "Mid",
+        "skills": [],
+        "location": "Mountain View, CA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8517777002"
+      },
+      {
+        "id": "gh-8541658002",
+        "companyId": "atoms",
+        "title": "Mechanical Engineer - San Francisco, CA",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-10",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8541658002"
+      },
+      {
+        "id": "gh-8552002002",
+        "companyId": "atoms",
+        "title": "Payroll Specialist - Bogotá, COL",
+        "level": "Mid",
+        "skills": [],
+        "location": "Bogotá, COL",
+        "remote": false,
+        "postedDate": "2026-06-10",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8552002002"
+      },
+      {
+        "id": "gh-8531662002",
+        "companyId": "atoms",
+        "title": "People Operations Associate - Bogotá, COL",
+        "level": "Junior",
+        "skills": [],
+        "location": "Bogotá, COL",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8531662002"
+      },
+      {
+        "id": "gh-8415229002",
+        "companyId": "atoms",
+        "title": "People Program Manager - Los Angeles, CA",
+        "level": "Manager",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8415229002"
+      },
+      {
+        "id": "gh-8567909002",
+        "companyId": "atoms",
+        "title": "Real Estate Acquisitions Lead - Taipei City, TWN",
+        "level": "Lead",
+        "skills": [],
+        "location": "Taipei City, TWN",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8567909002"
+      },
+      {
+        "id": "gh-8558580002",
+        "companyId": "atoms",
+        "title": "Recruiter - Bogotá, COL",
+        "level": "Mid",
+        "skills": [],
+        "location": "Bogotá, COL",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8558580002"
+      },
+      {
+        "id": "gh-8508489002",
+        "companyId": "atoms",
+        "title": "Regional Finance Controller - London, UK",
+        "level": "Mid",
+        "skills": [],
+        "location": "London, UK",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8508489002"
+      },
+      {
+        "id": "gh-8584966002",
+        "companyId": "atoms",
+        "title": "Robotics Controls Engineer - San Francisco, CA",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-10",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8584966002"
+      },
+      {
+        "id": "gh-8581132002",
+        "companyId": "atoms",
+        "title": "Robotics Systems Engineer - San Francisco, CA",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-10",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8581132002"
+      },
+      {
+        "id": "gh-8577217002",
+        "companyId": "atoms",
+        "title": "Senior Audit Associate - Makati City, PHL",
+        "level": "Junior",
+        "skills": [],
+        "location": "Makati City, PHL",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8577217002"
+      },
+      {
+        "id": "gh-8551878002",
+        "companyId": "atoms",
+        "title": "Senior Counsel - Transactions, Product & Privacy - Los Angeles, CA",
+        "level": "Senior",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8551878002"
+      },
+      {
+        "id": "gh-8538728002",
+        "companyId": "atoms",
+        "title": "Senior Software Engineer - Data Infrastructure - Austin, TX",
+        "level": "Senior",
+        "skills": [],
+        "location": "Austin, TX",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8538728002"
+      },
+      {
+        "id": "gh-8373608002",
+        "companyId": "atoms",
+        "title": "Senior Software Engineer - Machine Learning Infrastructure - San Francisco, CA",
+        "level": "Senior",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8373608002"
+      },
+      {
+        "id": "gh-8470293002",
+        "companyId": "atoms",
+        "title": "Senior Strategic Finance Associate - Sao Paulo, BRA",
+        "level": "Junior",
+        "skills": [],
+        "location": "Sao Paulo, BRA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8470293002"
+      },
+      {
+        "id": "gh-8578324002",
+        "companyId": "atoms",
+        "title": "Senior Treasury Analyst - Bogotá, COL",
+        "level": "Senior",
+        "skills": [],
+        "location": "Bogotá, COL",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8578324002"
+      },
+      {
+        "id": "gh-8567713002",
+        "companyId": "atoms",
+        "title": "Software Engineer - Money Engineering - New York, NY",
+        "level": "Mid",
+        "skills": [],
+        "location": "New York, NY",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8567713002"
+      },
+      {
+        "id": "gh-8548376002",
+        "companyId": "atoms",
+        "title": "Strategic Account Specialist - Bogotá, COL",
+        "level": "Mid",
+        "skills": [],
+        "location": "Bogotá, COL",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8548376002"
+      },
+      {
+        "id": "gh-8548373002",
+        "companyId": "atoms",
+        "title": "Strategy and Planning Associate - Bogotá, COL",
+        "level": "Junior",
+        "skills": [],
+        "location": "Bogotá, COL",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8548373002"
+      },
+      {
+        "id": "gh-8541904002",
+        "companyId": "atoms",
+        "title": "Talent Analyst - San Francisco, CA",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8541904002"
+      },
+      {
+        "id": "gh-8567469002",
+        "companyId": "atoms",
+        "title": "Technical Program Manager - Seoul, KOR",
+        "level": "Manager",
+        "skills": [],
+        "location": "Seoul, KOR",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8567469002"
+      },
+      {
+        "id": "gh-8536606002",
+        "companyId": "atoms",
+        "title": "Technician Assembly - San Francisco, CA",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8536606002"
+      },
+      {
+        "id": "gh-8574660002",
+        "companyId": "atoms",
+        "title": "Workday Integration Analyst ll - Makati City, MNL",
+        "level": "Mid",
+        "skills": [],
+        "location": "Makati City, MNL",
+        "remote": false,
+        "postedDate": "2026-06-09",
+        "url": "https://job-boards.greenhouse.io/atoms/jobs/8574660002"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 36,
+    "discoveredDate": "2026-06-11",
+    "enriched": true
+  },
+  {
+    "id": "contoro-robotics",
+    "name": "Contoro Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "Austin, TX",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Austin, TX. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-11",
+    "enriched": true
   }
 ]
