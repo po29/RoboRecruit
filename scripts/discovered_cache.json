@@ -36798,5 +36798,59 @@
     "jobCount": 3,
     "discoveredDate": "2026-06-12",
     "enriched": true
+  },
+  {
+    "id": "aerovect",
+    "name": "AeroVect",
+    "logo": "",
+    "website": "",
+    "hq": "Atlanta, GA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Atlanta, GA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-15",
+    "enriched": true
+  },
+  {
+    "id": "saronic-technologies",
+    "name": "Saronic Technologies",
+    "logo": "",
+    "website": "",
+    "hq": "Austin, TX",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Austin, TX. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-15",
+    "enriched": true
+  },
+  {
+    "id": "sr2-socially-responsible-recruitment-certified-b-corporation",
+    "name": "SR2 | Socially Responsible Recruitment | Certified B Corporation™",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-15",
+    "enriched": true
   }
 ]
