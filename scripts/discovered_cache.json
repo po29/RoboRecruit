@@ -36870,5 +36870,51 @@
     "jobCount": 2,
     "discoveredDate": "2026-06-16",
     "enriched": true
+  },
+  {
+    "id": "1x",
+    "name": "1X",
+    "logo": "",
+    "website": "",
+    "hq": "San Carlos, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [
+      {
+        "name": "Reinforcement Learning",
+        "category": "TechCategory.ML"
+      }
+    ],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Carlos, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 4,
+    "discoveredDate": "2026-06-17",
+    "enriched": true
+  },
+  {
+    "id": "standard-bots",
+    "name": "Standard Bots",
+    "logo": "",
+    "website": "",
+    "hq": "Glen Cove, NY",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [
+      {
+        "name": "Embedded Systems",
+        "category": "TechCategory.Hardware"
+      }
+    ],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Glen Cove, NY. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-17",
+    "enriched": true
   }
 ]
