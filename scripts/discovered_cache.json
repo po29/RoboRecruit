@@ -36957,5 +36957,170 @@
     "jobCount": 2,
     "discoveredDate": "2026-06-18",
     "enriched": true
+  },
+  {
+    "id": "amd",
+    "name": "AMD",
+    "logo": "",
+    "website": "",
+    "hq": "Austin, TX",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Austin, TX. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-19",
+    "enriched": true
+  },
+  {
+    "id": "pronto",
+    "name": "Pronto",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-8587069002",
+        "companyId": "pronto",
+        "title": "Autonomous Operations Specialist, Equipment Operator",
+        "level": "Mid",
+        "skills": [],
+        "location": "United States",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/pronto/jobs/8587069002"
+      },
+      {
+        "id": "gh-8584845002",
+        "companyId": "pronto",
+        "title": "Embedded Firmware Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/pronto/jobs/8584845002"
+      },
+      {
+        "id": "gh-8597881002",
+        "companyId": "pronto",
+        "title": "Engenheiro de Robótica",
+        "level": "Mid",
+        "skills": [],
+        "location": "Brazil",
+        "remote": false,
+        "postedDate": "2026-06-17",
+        "url": "https://job-boards.greenhouse.io/pronto/jobs/8597881002"
+      },
+      {
+        "id": "gh-8520091002",
+        "companyId": "pronto",
+        "title": "Field Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Saudi Arabia",
+        "remote": false,
+        "postedDate": "2026-06-19",
+        "url": "https://job-boards.greenhouse.io/pronto/jobs/8520091002"
+      },
+      {
+        "id": "gh-8597887002",
+        "companyId": "pronto",
+        "title": "Mechanical Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Brazil",
+        "remote": false,
+        "postedDate": "2026-06-17",
+        "url": "https://job-boards.greenhouse.io/pronto/jobs/8597887002"
+      },
+      {
+        "id": "gh-8581042002",
+        "companyId": "pronto",
+        "title": "Robotics Controls Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/pronto/jobs/8581042002"
+      },
+      {
+        "id": "gh-8581130002",
+        "companyId": "pronto",
+        "title": "Robotics Planning Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/pronto/jobs/8581130002"
+      },
+      {
+        "id": "gh-8586715002",
+        "companyId": "pronto",
+        "title": "Robotics Support Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/pronto/jobs/8586715002"
+      },
+      {
+        "id": "gh-8581017002",
+        "companyId": "pronto",
+        "title": "Robotics Systems Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/pronto/jobs/8581017002"
+      },
+      {
+        "id": "gh-8583040002",
+        "companyId": "pronto",
+        "title": "Robotics Test Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco, CA",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/pronto/jobs/8583040002"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 10,
+    "discoveredDate": "2026-06-19",
+    "enriched": true
+  },
+  {
+    "id": "samsung-india",
+    "name": "Samsung India",
+    "logo": "",
+    "website": "",
+    "hq": "Taylor, TX",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Taylor, TX. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-19",
+    "enriched": true
   }
 ]
