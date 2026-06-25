@@ -37140,5 +37140,180 @@
     "jobCount": 3,
     "discoveredDate": "2026-06-20",
     "enriched": true
+  },
+  {
+    "id": "chariot-defense",
+    "name": "Chariot Defense",
+    "logo": "",
+    "website": "",
+    "hq": "South San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [
+      {
+        "name": "Linux",
+        "category": "TechCategory.Language"
+      }
+    ],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-5200020008",
+        "companyId": "chariot-defense",
+        "title": "Electronic Design Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Bruno, California, United States",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/chariotdefense/jobs/5200020008"
+      },
+      {
+        "id": "gh-5217522008",
+        "companyId": "chariot-defense",
+        "title": "Engineering Technician",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Bruno, California, United States",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/chariotdefense/jobs/5217522008"
+      },
+      {
+        "id": "gh-5275341008",
+        "companyId": "chariot-defense",
+        "title": "Firmware Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Bruno, California, United States",
+        "remote": false,
+        "postedDate": "2026-06-22",
+        "url": "https://job-boards.greenhouse.io/chariotdefense/jobs/5275341008"
+      },
+      {
+        "id": "gh-5251070008",
+        "companyId": "chariot-defense",
+        "title": "Inventory Operations Specialist",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Bruno, California, United States",
+        "remote": false,
+        "postedDate": "2026-06-17",
+        "url": "https://job-boards.greenhouse.io/chariotdefense/jobs/5251070008"
+      },
+      {
+        "id": "gh-5279527008",
+        "companyId": "chariot-defense",
+        "title": "Manufacturing Technician",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Bruno, California, United States",
+        "remote": false,
+        "postedDate": "2026-06-24",
+        "url": "https://job-boards.greenhouse.io/chariotdefense/jobs/5279527008"
+      },
+      {
+        "id": "gh-5181624008",
+        "companyId": "chariot-defense",
+        "title": "Mechanical Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Bruno, California, United States",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/chariotdefense/jobs/5181624008"
+      },
+      {
+        "id": "gh-5233628008",
+        "companyId": "chariot-defense",
+        "title": "Power Electronics Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Bruno, California, United States",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/chariotdefense/jobs/5233628008"
+      },
+      {
+        "id": "gh-5275764008",
+        "companyId": "chariot-defense",
+        "title": "Software Engineer, Embedded Linux",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Bruno, California, United States",
+        "remote": false,
+        "postedDate": "2026-06-22",
+        "url": "https://job-boards.greenhouse.io/chariotdefense/jobs/5275764008"
+      },
+      {
+        "id": "gh-5275391008",
+        "companyId": "chariot-defense",
+        "title": "Software Engineer, Systems",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Bruno, California, United States",
+        "remote": false,
+        "postedDate": "2026-06-22",
+        "url": "https://job-boards.greenhouse.io/chariotdefense/jobs/5275391008"
+      },
+      {
+        "id": "gh-5250927008",
+        "companyId": "chariot-defense",
+        "title": "Test Engineer, Hardware and Systems",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Bruno, California, United States",
+        "remote": false,
+        "postedDate": "2026-06-16",
+        "url": "https://job-boards.greenhouse.io/chariotdefense/jobs/5250927008"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in South San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 10,
+    "discoveredDate": "2026-06-25",
+    "enriched": true
+  },
+  {
+    "id": "soaring",
+    "name": "Soaring",
+    "logo": "",
+    "website": "",
+    "hq": "Orange, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.DroneUAV"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in drone / UAV. Based in Orange, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-25",
+    "enriched": true
+  },
+  {
+    "id": "cubit-capital",
+    "name": "Cubit Capital",
+    "logo": "",
+    "website": "",
+    "hq": "San Bruno, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [
+      {
+        "name": "Linux",
+        "category": "TechCategory.Language"
+      }
+    ],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Bruno, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-06-25",
+    "enriched": true
   }
 ]
