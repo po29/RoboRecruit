@@ -37441,5 +37441,23 @@
     "jobCount": 2,
     "discoveredDate": "2026-06-30",
     "enriched": true
+  },
+  {
+    "id": "efference",
+    "name": "Efference",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-07-01",
+    "enriched": true
   }
 ]
