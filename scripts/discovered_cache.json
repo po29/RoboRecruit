@@ -37608,5 +37608,60 @@
     "jobCount": 2,
     "discoveredDate": "2026-07-07",
     "enriched": true
+  },
+  {
+    "id": "rhoda-ai",
+    "name": "Rhoda AI",
+    "logo": "",
+    "website": "",
+    "hq": "Mountain View, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.MobileManipulation",
+      "ProblemDomain.SafetyCollaboration"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in mobile manipulation, safety & collaboration. Based in Mountain View, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 7,
+    "discoveredDate": "2026-07-08",
+    "enriched": true
+  },
+  {
+    "id": "jack-jill",
+    "name": "Jack & Jill",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-07-08",
+    "enriched": true
+  },
+  {
+    "id": "sierra-nevada-corporation",
+    "name": "Sierra Nevada Corporation",
+    "logo": "",
+    "website": "",
+    "hq": "Lone Tree, CO",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Lone Tree, CO. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-07-08",
+    "enriched": true
   }
 ]
