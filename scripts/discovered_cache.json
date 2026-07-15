@@ -39742,5 +39742,41 @@
     "jobCount": 113,
     "discoveredDate": "2026-07-14",
     "enriched": true
+  },
+  {
+    "id": "terrafirma",
+    "name": "TerraFirma",
+    "logo": "",
+    "website": "",
+    "hq": "Austin, TX",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Austin, TX. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 3,
+    "discoveredDate": "2026-07-15",
+    "enriched": true
+  },
+  {
+    "id": "9-mothers",
+    "name": "9 Mothers",
+    "logo": "",
+    "website": "",
+    "hq": "Austin, TX",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Austin, TX. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-07-15",
+    "enriched": true
   }
 ]
