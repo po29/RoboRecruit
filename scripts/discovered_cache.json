@@ -39778,5 +39778,53 @@
     "jobCount": 2,
     "discoveredDate": "2026-07-15",
     "enriched": true
+  },
+  {
+    "id": "rex-zone",
+    "name": "Rex.zone",
+    "logo": "",
+    "website": "",
+    "hq": "United States",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in United States. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 11,
+    "discoveredDate": "2026-07-16",
+    "enriched": true
+  },
+  {
+    "id": "general-robotics",
+    "name": "General Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "Redmond, WA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-7182645002",
+        "companyId": "general-robotics",
+        "title": "Career Opportunities ",
+        "level": "Mid",
+        "skills": [],
+        "location": "Any",
+        "remote": false,
+        "postedDate": "2026-05-11",
+        "url": "https://job-boards.greenhouse.io/general/jobs/7182645002"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Redmond, WA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 1,
+    "discoveredDate": "2026-07-16",
+    "enriched": true
   }
 ]
