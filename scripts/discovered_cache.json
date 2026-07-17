@@ -39826,5 +39826,23 @@
     "jobCount": 1,
     "discoveredDate": "2026-07-16",
     "enriched": true
+  },
+  {
+    "id": "stealth-startup",
+    "name": "Stealth Startup",
+    "logo": "",
+    "website": "",
+    "hq": "Fredericksburg, VA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Fredericksburg, VA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-07-17",
+    "enriched": true
   }
 ]
