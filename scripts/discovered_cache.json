@@ -39844,5 +39844,234 @@
     "jobCount": 2,
     "discoveredDate": "2026-07-17",
     "enriched": true
+  },
+  {
+    "id": "roboforce",
+    "name": "RoboForce",
+    "logo": "",
+    "website": "",
+    "hq": "Milpitas, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-5196164008",
+        "companyId": "roboforce",
+        "title": "AI Resident",
+        "level": "Mid",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5196164008"
+      },
+      {
+        "id": "gh-5198791008",
+        "companyId": "roboforce",
+        "title": "Data Collection Operator (Swing Shift)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5198791008"
+      },
+      {
+        "id": "gh-5231828008",
+        "companyId": "roboforce",
+        "title": "Finance and Accounting Manager",
+        "level": "Manager",
+        "skills": [],
+        "location": "Milpitas, California",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5231828008"
+      },
+      {
+        "id": "gh-5255989008",
+        "companyId": "roboforce",
+        "title": "Founding AI Native Lead",
+        "level": "Lead",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5255989008"
+      },
+      {
+        "id": "gh-5290821008",
+        "companyId": "roboforce",
+        "title": "Lead AI Research Engineer, Embodied Systems",
+        "level": "Lead",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5290821008"
+      },
+      {
+        "id": "gh-5233632008",
+        "companyId": "roboforce",
+        "title": "Lead Software Engineer, AI & Robotics Test Infrastructure",
+        "level": "Lead",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5233632008"
+      },
+      {
+        "id": "gh-5181554008",
+        "companyId": "roboforce",
+        "title": "Robotics Software Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5181554008"
+      },
+      {
+        "id": "gh-5352789008",
+        "companyId": "roboforce",
+        "title": "Senior Robotics Systems Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5352789008"
+      },
+      {
+        "id": "gh-5030138008",
+        "companyId": "roboforce",
+        "title": "Senior / Staff AI Research Engineer, Data Infrastructure",
+        "level": "Staff",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5030138008"
+      },
+      {
+        "id": "gh-4981345008",
+        "companyId": "roboforce",
+        "title": "Senior / Staff AI Research Scientist, Foundation Models",
+        "level": "Staff",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/4981345008"
+      },
+      {
+        "id": "gh-5076071008",
+        "companyId": "roboforce",
+        "title": "Senior/Staff Embedded Software Engineer, Robotics Devices",
+        "level": "Staff",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5076071008"
+      },
+      {
+        "id": "gh-5076072008",
+        "companyId": "roboforce",
+        "title": "Senior/Staff Embedded Software Engineer, Robotics Platform",
+        "level": "Staff",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5076072008"
+      },
+      {
+        "id": "gh-5153869008",
+        "companyId": "roboforce",
+        "title": "Senior/Staff Manufacturing Engineer DFM",
+        "level": "Staff",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5153869008"
+      },
+      {
+        "id": "gh-4137767008",
+        "companyId": "roboforce",
+        "title": "Senior/Staff Mechanical Engineer",
+        "level": "Staff",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/4137767008"
+      },
+      {
+        "id": "gh-5076050008",
+        "companyId": "roboforce",
+        "title": "Senior / Staff Robotics Engineer, Manipulation",
+        "level": "Staff",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5076050008"
+      },
+      {
+        "id": "gh-5077149008",
+        "companyId": "roboforce",
+        "title": "Senior / Staff Robotics Engineer, Motion Planning",
+        "level": "Staff",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5077149008"
+      },
+      {
+        "id": "gh-5363519008",
+        "companyId": "roboforce",
+        "title": "Talent Acquisition Partner",
+        "level": "Mid",
+        "skills": [],
+        "location": "Milpitas, CA",
+        "remote": false,
+        "postedDate": "2026-07-17",
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5363519008"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Milpitas, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 17,
+    "discoveredDate": "2026-07-18",
+    "enriched": true
+  },
+  {
+    "id": "watney-robotics-inc",
+    "name": "Watney Robotics Inc",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [
+      {
+        "name": "Rust",
+        "category": "TechCategory.Language"
+      }
+    ],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-07-18",
+    "enriched": true
   }
 ]
