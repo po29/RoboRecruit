@@ -40127,5 +40127,103 @@
     "jobCount": 2,
     "discoveredDate": "2026-07-20",
     "enriched": true
+  },
+  {
+    "id": "trubot-technology",
+    "name": "Trubot Technology",
+    "logo": "",
+    "website": "",
+    "hq": "Fremont, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.MobileManipulation",
+      "ProblemDomain.EmbodiedAI"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in mobile manipulation, embodied AI. Based in Fremont, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-07-21",
+    "enriched": true
+  },
+  {
+    "id": "boxbot",
+    "name": "Boxbot",
+    "logo": "",
+    "website": "",
+    "hq": "Alameda, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [
+      {
+        "name": "C++",
+        "category": "TechCategory.Language"
+      }
+    ],
+    "products": [],
+    "jobs": [
+      {
+        "id": "lv-092114fc-e9e2-4af5-a599-d2670bfb9bc8",
+        "companyId": "boxbot",
+        "title": "Principal Software Engineer (C++)",
+        "level": "Principal",
+        "skills": [],
+        "location": "Alameda, CA",
+        "remote": false,
+        "postedDate": "2026-07-20",
+        "url": "https://jobs.lever.co/boxbot/092114fc-e9e2-4af5-a599-d2670bfb9bc8"
+      },
+      {
+        "id": "lv-c1ee43db-afd2-438b-b86b-3690535aa425",
+        "companyId": "boxbot",
+        "title": "Senior Controls Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Alameda, CA",
+        "remote": false,
+        "postedDate": "2026-07-20",
+        "url": "https://jobs.lever.co/boxbot/c1ee43db-afd2-438b-b86b-3690535aa425"
+      },
+      {
+        "id": "lv-4c7272d5-9aa5-4c52-9ae4-46bd556313c1",
+        "companyId": "boxbot",
+        "title": "Senior Mechanical Design Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Alameda, CA",
+        "remote": false,
+        "postedDate": "2026-05-20",
+        "url": "https://jobs.lever.co/boxbot/4c7272d5-9aa5-4c52-9ae4-46bd556313c1"
+      },
+      {
+        "id": "lv-9706f284-e515-4a54-8431-b325ea33cf6d",
+        "companyId": "boxbot",
+        "title": "Senior Software Engineer (C++)",
+        "level": "Senior",
+        "skills": [],
+        "location": "Alameda, CA",
+        "remote": false,
+        "postedDate": "2026-07-20",
+        "url": "https://jobs.lever.co/boxbot/9706f284-e515-4a54-8431-b325ea33cf6d"
+      },
+      {
+        "id": "lv-adedad6b-1251-4ff3-9e6d-3504542767da",
+        "companyId": "boxbot",
+        "title": "Technician",
+        "level": "Mid",
+        "skills": [],
+        "location": "Alameda, CA",
+        "remote": false,
+        "postedDate": "2025-09-24",
+        "url": "https://jobs.lever.co/boxbot/adedad6b-1251-4ff3-9e6d-3504542767da"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Alameda, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 5,
+    "discoveredDate": "2026-07-21",
+    "enriched": true
   }
 ]
