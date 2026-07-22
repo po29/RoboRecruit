@@ -40225,5 +40225,75 @@
     "jobCount": 5,
     "discoveredDate": "2026-07-21",
     "enriched": true
+  },
+  {
+    "id": "jobgether",
+    "name": "Jobgether",
+    "logo": "",
+    "website": "",
+    "hq": "United States",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in United States. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-07-22",
+    "enriched": true
+  },
+  {
+    "id": "ludo-robotics",
+    "name": "Ludo Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-8460224002",
+        "companyId": "ludo-robotics",
+        "title": "[Ludo Robotics] AI/ML Research Engineer (Robotics) (2년 이상)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Seoul",
+        "remote": false,
+        "postedDate": "2026-06-25",
+        "url": "https://job-boards.greenhouse.io/ludorobotics/jobs/8460224002"
+      },
+      {
+        "id": "gh-8451758002",
+        "companyId": "ludo-robotics",
+        "title": "ML/AI Engineer ",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-07-20",
+        "url": "https://job-boards.greenhouse.io/ludorobotics/jobs/8451758002"
+      },
+      {
+        "id": "gh-8558962002",
+        "companyId": "ludo-robotics",
+        "title": "Postdoctoral Fellowship - Robotics and AI",
+        "level": "Mid",
+        "skills": [],
+        "location": "San Francisco",
+        "remote": false,
+        "postedDate": "2026-06-25",
+        "url": "https://job-boards.greenhouse.io/ludorobotics/jobs/8558962002"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 3,
+    "discoveredDate": "2026-07-22",
+    "enriched": true
   }
 ]
