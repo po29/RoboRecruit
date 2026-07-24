@@ -40295,5 +40295,256 @@
     "jobCount": 3,
     "discoveredDate": "2026-07-22",
     "enriched": true
+  },
+  {
+    "id": "persona-ai",
+    "name": "Persona AI",
+    "logo": "",
+    "website": "",
+    "hq": "Houston, TX",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.MobileManipulation"
+    ],
+    "techStack": [
+      {
+        "name": "Reinforcement Learning",
+        "category": "TechCategory.ML"
+      }
+    ],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in mobile manipulation. Based in Houston, TX. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-07-24",
+    "enriched": true
+  },
+  {
+    "id": "rendezvous-robotics",
+    "name": "Rendezvous Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "Golden, CO",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-4286645009",
+        "companyId": "rendezvous-robotics",
+        "title": "Avionics Engineer (Digital Electronics)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4286645009"
+      },
+      {
+        "id": "gh-4329032009",
+        "companyId": "rendezvous-robotics",
+        "title": "Avionics Engineering Intern (Fall 2026)",
+        "level": "Intern",
+        "skills": [],
+        "location": "Golden, CO",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329032009"
+      },
+      {
+        "id": "gh-4329118009",
+        "companyId": "rendezvous-robotics",
+        "title": "Avionics Engineering Intern (Spring 2027)",
+        "level": "Intern",
+        "skills": [],
+        "location": "Golden, CO",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329118009"
+      },
+      {
+        "id": "gh-4286607009",
+        "companyId": "rendezvous-robotics",
+        "title": "Avionics Engineer (Power Systems)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4286607009"
+      },
+      {
+        "id": "gh-4286670009",
+        "companyId": "rendezvous-robotics",
+        "title": "Flight Software Engineer (Communications)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4286670009"
+      },
+      {
+        "id": "gh-4286789009",
+        "companyId": "rendezvous-robotics",
+        "title": "Flight Software Engineer (Platform)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4286789009"
+      },
+      {
+        "id": "gh-4111373009",
+        "companyId": "rendezvous-robotics",
+        "title": "General Interest",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-06-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4111373009"
+      },
+      {
+        "id": "gh-4294300009",
+        "companyId": "rendezvous-robotics",
+        "title": "GNC Engineer, ADCS (Vehicle)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4294300009"
+      },
+      {
+        "id": "gh-4294301009",
+        "companyId": "rendezvous-robotics",
+        "title": "GNC Engineer, Simulation (Swarm/Vehicle)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4294301009"
+      },
+      {
+        "id": "gh-4294268009",
+        "companyId": "rendezvous-robotics",
+        "title": "Manufacturing Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4294268009"
+      },
+      {
+        "id": "gh-4294451009",
+        "companyId": "rendezvous-robotics",
+        "title": "Mechanical Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4294451009"
+      },
+      {
+        "id": "gh-4329113009",
+        "companyId": "rendezvous-robotics",
+        "title": "Mechanical Engineering Intern (Fall 2026)",
+        "level": "Intern",
+        "skills": [],
+        "location": "Golden, CO",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329113009"
+      },
+      {
+        "id": "gh-4329123009",
+        "companyId": "rendezvous-robotics",
+        "title": "Mechanical Engineering Intern (Spring 2027)",
+        "level": "Intern",
+        "skills": [],
+        "location": "Golden, CO",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329123009"
+      },
+      {
+        "id": "gh-4294103009",
+        "companyId": "rendezvous-robotics",
+        "title": "Senior GNC Engineer, Navigation (Swarm/Vehicle)",
+        "level": "Senior",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4294103009"
+      },
+      {
+        "id": "gh-4328555009",
+        "companyId": "rendezvous-robotics",
+        "title": "Software Engineering Intern (Fall 2026)",
+        "level": "Intern",
+        "skills": [],
+        "location": "Golden, CO",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009"
+      },
+      {
+        "id": "gh-4329122009",
+        "companyId": "rendezvous-robotics",
+        "title": "Software Engineering Intern (Spring 2027)",
+        "level": "Intern",
+        "skills": [],
+        "location": "Golden, CO",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009"
+      },
+      {
+        "id": "gh-4294095009",
+        "companyId": "rendezvous-robotics",
+        "title": "Structural Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4294095009"
+      },
+      {
+        "id": "gh-4294065009",
+        "companyId": "rendezvous-robotics",
+        "title": "Test Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4294065009"
+      },
+      {
+        "id": "gh-4294447009",
+        "companyId": "rendezvous-robotics",
+        "title": "Thermal Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Golden, Colorado",
+        "remote": false,
+        "postedDate": "2026-07-22",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4294447009"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Golden, CO. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 19,
+    "discoveredDate": "2026-07-24",
+    "enriched": true
   }
 ]
