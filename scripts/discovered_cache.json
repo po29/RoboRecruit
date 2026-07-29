@@ -81525,5 +81525,361 @@
     "jobCount": 2,
     "discoveredDate": "2026-07-28",
     "enriched": true
+  },
+  {
+    "id": "magnendo-corp",
+    "name": "Magnendo Corp.",
+    "logo": "",
+    "website": "",
+    "hq": "Newton, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Newton, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-07-29",
+    "enriched": true
+  },
+  {
+    "id": "scout-ai",
+    "name": "Scout AI",
+    "logo": "",
+    "website": "",
+    "hq": "Sunnyvale, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-4960342008",
+        "companyId": "scout-ai",
+        "title": "AI  Cloud Infrastructure Engineer - Fury Team",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4960342008"
+      },
+      {
+        "id": "gh-4643324008",
+        "companyId": "scout-ai",
+        "title": "AI Engineer ",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643324008"
+      },
+      {
+        "id": "gh-4643328008",
+        "companyId": "scout-ai",
+        "title": "AI Researcher ",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643328008"
+      },
+      {
+        "id": "gh-5152556008",
+        "companyId": "scout-ai",
+        "title": "Corporate Development Associate",
+        "level": "Junior",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5152556008"
+      },
+      {
+        "id": "gh-4914938008",
+        "companyId": "scout-ai",
+        "title": "Director of Business Development, Air Dominance",
+        "level": "Manager",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4914938008"
+      },
+      {
+        "id": "gh-5249407008",
+        "companyId": "scout-ai",
+        "title": "Drone Operator",
+        "level": "Mid",
+        "skills": [],
+        "location": "Paso Robles, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5249407008"
+      },
+      {
+        "id": "gh-5172191008",
+        "companyId": "scout-ai",
+        "title": "Electrical Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5172191008"
+      },
+      {
+        "id": "gh-5152455008",
+        "companyId": "scout-ai",
+        "title": "Electrical Integration Technician ",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5152455008"
+      },
+      {
+        "id": "gh-4958043008",
+        "companyId": "scout-ai",
+        "title": "Full Stack Software Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4958043008"
+      },
+      {
+        "id": "gh-5371560008",
+        "companyId": "scout-ai",
+        "title": "GTM Senior Program Manager",
+        "level": "Senior",
+        "skills": [],
+        "location": "Remote",
+        "remote": true,
+        "postedDate": "2026-07-27",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5371560008"
+      },
+      {
+        "id": "gh-4643333008",
+        "companyId": "scout-ai",
+        "title": "Junior Firmware Engineer",
+        "level": "Junior",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008"
+      },
+      {
+        "id": "gh-5137138008",
+        "companyId": "scout-ai",
+        "title": "Legal Counsel",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5137138008"
+      },
+      {
+        "id": "gh-5170792008",
+        "companyId": "scout-ai",
+        "title": "Mission Operator - Field Service Representative",
+        "level": "Mid",
+        "skills": [],
+        "location": "Paso Robles, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5170792008"
+      },
+      {
+        "id": "gh-5170788008",
+        "companyId": "scout-ai",
+        "title": "Mission Operator - Field Test Technician (Ground)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Paso Robles, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5170788008"
+      },
+      {
+        "id": "gh-5170789008",
+        "companyId": "scout-ai",
+        "title": "Mission Operator - Flight Test Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Paso Robles, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5170789008"
+      },
+      {
+        "id": "gh-4888366008",
+        "companyId": "scout-ai",
+        "title": "Mission Operator - Forward Deployed Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Paso Robles, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4888366008"
+      },
+      {
+        "id": "gh-5170787008",
+        "companyId": "scout-ai",
+        "title": "Mission Operator - Ground Systems",
+        "level": "Mid",
+        "skills": [],
+        "location": "Paso Robles, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5170787008"
+      },
+      {
+        "id": "gh-5203065008",
+        "companyId": "scout-ai",
+        "title": "Proposal Manager",
+        "level": "Manager",
+        "skills": [],
+        "location": "Remote",
+        "remote": true,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5203065008"
+      },
+      {
+        "id": "gh-5137118008",
+        "companyId": "scout-ai",
+        "title": "Robotics Software Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5137118008"
+      },
+      {
+        "id": "gh-4643359008",
+        "companyId": "scout-ai",
+        "title": "Robot Technician",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643359008"
+      },
+      {
+        "id": "gh-5309913008",
+        "companyId": "scout-ai",
+        "title": "Senior AI Engineer ",
+        "level": "Senior",
+        "skills": [],
+        "location": "Remote US, Sunnyvale, California",
+        "remote": true,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5309913008"
+      },
+      {
+        "id": "gh-5310257008",
+        "companyId": "scout-ai",
+        "title": "Senior AI Researcher",
+        "level": "Senior",
+        "skills": [],
+        "location": "Remote US, Sunnyvale, California",
+        "remote": true,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5310257008"
+      },
+      {
+        "id": "gh-5326907008",
+        "companyId": "scout-ai",
+        "title": "Senior IT Infrastructure & Security Engineer ",
+        "level": "Senior",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5326907008"
+      },
+      {
+        "id": "gh-5152543008",
+        "companyId": "scout-ai",
+        "title": "Senior Program Manager",
+        "level": "Senior",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5152543008"
+      },
+      {
+        "id": "gh-5170793008",
+        "companyId": "scout-ai",
+        "title": "Skillbridge Internship",
+        "level": "Intern",
+        "skills": [],
+        "location": "Sunnyvale, CA or Paso Robles, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5170793008"
+      },
+      {
+        "id": "gh-5248857008",
+        "companyId": "scout-ai",
+        "title": "Software Engineer, Agent Harnessing",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, California",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5248857008"
+      },
+      {
+        "id": "gh-5365581008",
+        "companyId": "scout-ai",
+        "title": "Staff Software Engineer, Agent Harnessing",
+        "level": "Staff",
+        "skills": [],
+        "location": "Remote US, Sunnyvale, California",
+        "remote": true,
+        "postedDate": "2026-07-27",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5365581008"
+      },
+      {
+        "id": "gh-5045055008",
+        "companyId": "scout-ai",
+        "title": "Technical AI Sourcer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, CA",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5045055008"
+      },
+      {
+        "id": "gh-5311078008",
+        "companyId": "scout-ai",
+        "title": "Vehicle Integration Technician",
+        "level": "Mid",
+        "skills": [],
+        "location": "Sunnyvale, California, United States ",
+        "remote": false,
+        "postedDate": "2026-07-24",
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/5311078008"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Sunnyvale, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 29,
+    "discoveredDate": "2026-07-29",
+    "enriched": true
   }
 ]
