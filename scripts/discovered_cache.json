@@ -81881,5 +81881,23 @@
     "jobCount": 29,
     "discoveredDate": "2026-07-29",
     "enriched": true
+  },
+  {
+    "id": "thoro-ai",
+    "name": "Thoro.ai",
+    "logo": "",
+    "website": "",
+    "hq": "Pittsburgh, PA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Pittsburgh, PA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-07-30",
+    "enriched": true
   }
 ]
