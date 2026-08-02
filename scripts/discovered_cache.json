@@ -81935,5 +81935,41 @@
     "jobCount": 4,
     "discoveredDate": "2026-08-01",
     "enriched": true
+  },
+  {
+    "id": "the-home-depot",
+    "name": "The Home Depot",
+    "logo": "",
+    "website": "",
+    "hq": "Waltham, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Waltham, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-08-02",
+    "enriched": true
+  },
+  {
+    "id": "anyware-robotics",
+    "name": "Anyware Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "Fremont, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Fremont, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-08-02",
+    "enriched": true
   }
 ]
