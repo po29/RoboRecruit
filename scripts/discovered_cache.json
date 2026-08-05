@@ -81989,5 +81989,41 @@
     "jobCount": 3,
     "discoveredDate": "2026-08-03",
     "enriched": true
+  },
+  {
+    "id": "walden-robotics",
+    "name": "Walden Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "Cambridge, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.SafetyCollaboration"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in safety & collaboration. Based in Cambridge, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 3,
+    "discoveredDate": "2026-08-05",
+    "enriched": true
+  },
+  {
+    "id": "astrolab",
+    "name": "Astrolab",
+    "logo": "",
+    "website": "",
+    "hq": "Hawthorne, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Hawthorne, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-08-05",
+    "enriched": true
   }
 ]
