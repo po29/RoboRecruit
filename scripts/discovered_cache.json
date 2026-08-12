@@ -82043,5 +82043,64 @@
     "jobCount": 2,
     "discoveredDate": "2026-08-11",
     "enriched": true
+  },
+  {
+    "id": "xpeng",
+    "name": "XPENG",
+    "logo": "",
+    "website": "",
+    "hq": "Santa Clara, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.EmbodiedAI"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in embodied AI. Based in Santa Clara, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-08-12",
+    "enriched": true
+  },
+  {
+    "id": "molg",
+    "name": "Molg",
+    "logo": "",
+    "website": "",
+    "hq": "Sterling, VA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Sterling, VA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-08-12",
+    "enriched": true
+  },
+  {
+    "id": "xpeng-jordan",
+    "name": "XPENG Jordan",
+    "logo": "",
+    "website": "",
+    "hq": "Santa Clara, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [
+      {
+        "name": "Reinforcement Learning",
+        "category": "TechCategory.ML"
+      }
+    ],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Santa Clara, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-08-12",
+    "enriched": true
   }
 ]
