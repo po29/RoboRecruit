@@ -23265,9 +23265,21 @@
     "techStack": [],
     "products": [],
     "description": "Auto-discovered US robotics company working in manufacturing automation. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
-    "jobCount": 3,
+    "jobCount": 1,
     "discoveredDate": "2026-04-28",
-    "jobs": [],
+    "jobs": [
+      {
+        "id": "gh-4364266009",
+        "companyId": "mach-industries",
+        "title": "Template - Main [Do not post]",
+        "level": "Mid",
+        "skills": [],
+        "location": "TBD",
+        "remote": false,
+        "postedDate": "2026-08-18",
+        "url": "https://job-boards.greenhouse.io/machindustries/jobs/4364266009"
+      }
+    ],
     "enriched": true
   },
   {
