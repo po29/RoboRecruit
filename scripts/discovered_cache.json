@@ -83359,5 +83359,252 @@
     "jobCount": 2,
     "discoveredDate": "2026-08-23",
     "enriched": true
+  },
+  {
+    "id": "weave-robotics",
+    "name": "Weave Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "San Francisco, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-4302897009",
+        "companyId": "weave-robotics",
+        "title": "Account Executive, Mid-Market (Central US)",
+        "level": "Mid",
+        "skills": [],
+        "location": "United States",
+        "remote": false,
+        "postedDate": "2026-08-12",
+        "url": "https://job-boards.greenhouse.io/weave/jobs/4302897009"
+      },
+      {
+        "id": "gh-4329722009",
+        "companyId": "weave-robotics",
+        "title": "Account Executive, Mid-Market (NY/NJ/PA)",
+        "level": "Mid",
+        "skills": [],
+        "location": "United States",
+        "remote": false,
+        "postedDate": "2026-08-12",
+        "url": "https://job-boards.greenhouse.io/weave/jobs/4329722009"
+      },
+      {
+        "id": "gh-4302904009",
+        "companyId": "weave-robotics",
+        "title": "Account Executive, Mid-Market (Open Territory)",
+        "level": "Mid",
+        "skills": [],
+        "location": "United States",
+        "remote": false,
+        "postedDate": "2026-08-12",
+        "url": "https://job-boards.greenhouse.io/weave/jobs/4302904009"
+      },
+      {
+        "id": "gh-4248670009",
+        "companyId": "weave-robotics",
+        "title": "Account Executive, SMB West",
+        "level": "Mid",
+        "skills": [],
+        "location": "United States",
+        "remote": false,
+        "postedDate": "2026-08-12",
+        "url": "https://job-boards.greenhouse.io/weave/jobs/4248670009"
+      },
+      {
+        "id": "gh-4281582009",
+        "companyId": "weave-robotics",
+        "title": "Director of Sales",
+        "level": "Manager",
+        "skills": [],
+        "location": "San Francisco Bay Area, California",
+        "remote": false,
+        "postedDate": "2026-08-12",
+        "url": "https://job-boards.greenhouse.io/weave/jobs/4281582009"
+      },
+      {
+        "id": "gh-4012125009",
+        "companyId": "weave-robotics",
+        "title": "Director, Strategic Partnerships",
+        "level": "Manager",
+        "skills": [],
+        "location": "United States",
+        "remote": false,
+        "postedDate": "2026-08-12",
+        "url": "https://job-boards.greenhouse.io/weave/jobs/4012125009"
+      },
+      {
+        "id": "gh-4314765009",
+        "companyId": "weave-robotics",
+        "title": "Senior Product Marketing Manager",
+        "level": "Senior",
+        "skills": [],
+        "location": "San Francisco Bay Area, California",
+        "remote": false,
+        "postedDate": "2026-08-12",
+        "url": "https://job-boards.greenhouse.io/weave/jobs/4314765009"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in San Francisco, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 7,
+    "discoveredDate": "2026-08-25",
+    "enriched": true
+  },
+  {
+    "id": "parallel",
+    "name": "Parallel",
+    "logo": "",
+    "website": "",
+    "hq": "Los Angeles, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-5185948007",
+        "companyId": "parallel",
+        "title": "Connectivity Solutions Architect - Cellular / Multi-Carrier Bonding ",
+        "level": "Mid",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-07-13",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5185948007?gh_jid=5185948007"
+      },
+      {
+        "id": "gh-5155218007",
+        "companyId": "parallel",
+        "title": "Electrical Engineer – Vehicle Systems",
+        "level": "Mid",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-06-03",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5155218007?gh_jid=5155218007"
+      },
+      {
+        "id": "gh-5201100007",
+        "companyId": "parallel",
+        "title": "Embedded Software Engineer, Perception (All Levels)",
+        "level": "Mid",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-08-03",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5201100007?gh_jid=5201100007"
+      },
+      {
+        "id": "gh-5220626007",
+        "companyId": "parallel",
+        "title": "Embedded Software Engineer - Vehicle Software",
+        "level": "Mid",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-08-24",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5220626007?gh_jid=5220626007"
+      },
+      {
+        "id": "gh-5042066007",
+        "companyId": "parallel",
+        "title": "Enterprise Account Executive",
+        "level": "Mid",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-06-11",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5042066007?gh_jid=5042066007"
+      },
+      {
+        "id": "gh-5143706007",
+        "companyId": "parallel",
+        "title": "Head of Customer Success ",
+        "level": "Mid",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-08-03",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5143706007?gh_jid=5143706007"
+      },
+      {
+        "id": "gh-5102774007",
+        "companyId": "parallel",
+        "title": "Mechanical Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-04-08",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5102774007?gh_jid=5102774007"
+      },
+      {
+        "id": "gh-5093287007",
+        "companyId": "parallel",
+        "title": "Senior Mechanical Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-04-08",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5093287007?gh_jid=5093287007"
+      },
+      {
+        "id": "gh-5197247007",
+        "companyId": "parallel",
+        "title": "Senior ML Ops Engineer (Machine Learning Infrastructure)",
+        "level": "Senior",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-07-27",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5197247007?gh_jid=5197247007"
+      },
+      {
+        "id": "gh-5137372007",
+        "companyId": "parallel",
+        "title": "Senior Software Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-05-13",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5137372007?gh_jid=5137372007"
+      },
+      {
+        "id": "gh-5173338007",
+        "companyId": "parallel",
+        "title": "Software Engineer II – Test/Internal Tooling ",
+        "level": "Intern",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-06-24",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5173338007?gh_jid=5173338007"
+      },
+      {
+        "id": "gh-5197249007",
+        "companyId": "parallel",
+        "title": "Technical Program Manager",
+        "level": "Manager",
+        "skills": [],
+        "location": "Los Angeles, CA",
+        "remote": false,
+        "postedDate": "2026-07-27",
+        "url": "https://boards.greenhouse.io/parallel/jobs/5197249007?gh_jid=5197249007"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Los Angeles, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 12,
+    "discoveredDate": "2026-08-25",
+    "enriched": true
   }
 ]
