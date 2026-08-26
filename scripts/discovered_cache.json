@@ -83606,5 +83606,23 @@
     "jobCount": 12,
     "discoveredDate": "2026-08-25",
     "enriched": true
+  },
+  {
+    "id": "darwin-recruitment",
+    "name": "Darwin Recruitment",
+    "logo": "",
+    "website": "",
+    "hq": "Boston, MA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Boston, MA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-08-26",
+    "enriched": true
   }
 ]
