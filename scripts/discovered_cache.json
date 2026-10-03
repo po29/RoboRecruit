@@ -89012,5 +89012,234 @@
     "jobCount": 438,
     "discoveredDate": "2026-10-01",
     "enriched": true
+  },
+  {
+    "id": "carbon-robotics",
+    "name": "Carbon Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "Seattle, WA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [
+      {
+        "name": "Embedded Systems",
+        "category": "TechCategory.Hardware"
+      }
+    ],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-4708222006",
+        "companyId": "carbon-robotics",
+        "title": "Contract Recruiting Coordinator",
+        "level": "Mid",
+        "skills": [],
+        "location": "Seattle, WA",
+        "remote": false,
+        "postedDate": "2026-09-15",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4708222006"
+      },
+      {
+        "id": "gh-4673637006",
+        "companyId": "carbon-robotics",
+        "title": "Deep Learning Engineer ",
+        "level": "Mid",
+        "skills": [],
+        "location": "Seattle, WA",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4673637006"
+      },
+      {
+        "id": "gh-4680066006",
+        "companyId": "carbon-robotics",
+        "title": "Electrical Engineer, COTS/Sensor",
+        "level": "Mid",
+        "skills": [],
+        "location": "Seattle, WA",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4680066006"
+      },
+      {
+        "id": "gh-4692741006",
+        "companyId": "carbon-robotics",
+        "title": "Field Marketing and Sales Support Specialist",
+        "level": "Mid",
+        "skills": [],
+        "location": "Australia",
+        "remote": false,
+        "postedDate": "2026-09-16",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4692741006"
+      },
+      {
+        "id": "gh-4697776006",
+        "companyId": "carbon-robotics",
+        "title": "Field Marketing Manager ",
+        "level": "Manager",
+        "skills": [],
+        "location": "Seattle, WA",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4697776006"
+      },
+      {
+        "id": "gh-4662063006",
+        "companyId": "carbon-robotics",
+        "title": "Manager, Software Engineering - Front end/Mobile",
+        "level": "Manager",
+        "skills": [],
+        "location": "Seattle, WA",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4662063006"
+      },
+      {
+        "id": "gh-4566565006",
+        "companyId": "carbon-robotics",
+        "title": "Manufacturing Engineer, Electrical",
+        "level": "Mid",
+        "skills": [],
+        "location": "Richland, WA ",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4566565006"
+      },
+      {
+        "id": "gh-4673643006",
+        "companyId": "carbon-robotics",
+        "title": "Performance Quality Technician",
+        "level": "Mid",
+        "skills": [],
+        "location": "Remote - Europe ",
+        "remote": true,
+        "postedDate": "2026-09-28",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4673643006"
+      },
+      {
+        "id": "gh-4710950006",
+        "companyId": "carbon-robotics",
+        "title": "Sales Development Representative",
+        "level": "Mid",
+        "skills": [],
+        "location": "Netherlands",
+        "remote": false,
+        "postedDate": "2026-09-26",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4710950006"
+      },
+      {
+        "id": "gh-4684337006",
+        "companyId": "carbon-robotics",
+        "title": "Sales Development Representative",
+        "level": "Mid",
+        "skills": [],
+        "location": "Seattle",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4684337006"
+      },
+      {
+        "id": "gh-4711721006",
+        "companyId": "carbon-robotics",
+        "title": "Sr. Electrical Engineer",
+        "level": "Senior",
+        "skills": [],
+        "location": "Seattle, WA",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4711721006"
+      },
+      {
+        "id": "gh-4693807006",
+        "companyId": "carbon-robotics",
+        "title": "Sr. Electrical Engineer, PCB Design",
+        "level": "Senior",
+        "skills": [],
+        "location": "Seattle, WA",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4693807006"
+      },
+      {
+        "id": "gh-4691546006",
+        "companyId": "carbon-robotics",
+        "title": "Sr. Manager, Autonomous Support Operations",
+        "level": "Senior",
+        "skills": [],
+        "location": "Seattle, WA",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4691546006"
+      },
+      {
+        "id": "gh-4607888006",
+        "companyId": "carbon-robotics",
+        "title": "Sr. Software Engineer, Embedded Systems Controls",
+        "level": "Senior",
+        "skills": [],
+        "location": "Seattle, WA",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4607888006"
+      },
+      {
+        "id": "gh-4627708006",
+        "companyId": "carbon-robotics",
+        "title": "Sr. Software Engineer, Robot Systems",
+        "level": "Senior",
+        "skills": [],
+        "location": "Seattle, WA",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4627708006"
+      },
+      {
+        "id": "gh-4713893006",
+        "companyId": "carbon-robotics",
+        "title": "Sr. Territory Account Manager, Tri-Cities",
+        "level": "Senior",
+        "skills": [],
+        "location": "Richland",
+        "remote": false,
+        "postedDate": "2026-09-22",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4713893006"
+      },
+      {
+        "id": "gh-4703382006",
+        "companyId": "carbon-robotics",
+        "title": "Technical Support Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Amsterdam, Netherlands",
+        "remote": false,
+        "postedDate": "2026-09-14",
+        "url": "https://carbonrobotics.com/job-openings?gh_jid=4703382006"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Seattle, WA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 17,
+    "discoveredDate": "2026-10-03",
+    "enriched": true
+  },
+  {
+    "id": "caltech",
+    "name": "Caltech",
+    "logo": "",
+    "website": "",
+    "hq": "Pasadena, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Pasadena, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-10-03",
+    "enriched": true
   }
 ]
