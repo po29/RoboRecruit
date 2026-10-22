@@ -90105,5 +90105,23 @@
     "jobCount": 67,
     "discoveredDate": "2026-10-20",
     "enriched": true
+  },
+  {
+    "id": "blue-river-technology",
+    "name": "Blue River Technology",
+    "logo": "",
+    "website": "",
+    "hq": "Santa Clara, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Santa Clara, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-10-22",
+    "enriched": true
   }
 ]
