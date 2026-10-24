@@ -92749,5 +92749,23 @@
     "jobCount": 237,
     "discoveredDate": "2026-10-23",
     "enriched": true
+  },
+  {
+    "id": "lodestar",
+    "name": "Lodestar",
+    "logo": "",
+    "website": "",
+    "hq": "El Segundo, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in El Segundo, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-10-24",
+    "enriched": true
   }
 ]
