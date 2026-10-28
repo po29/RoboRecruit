@@ -92785,5 +92785,23 @@
     "jobCount": 2,
     "discoveredDate": "2026-10-26",
     "enriched": true
+  },
+  {
+    "id": "stratom-inc",
+    "name": "Stratom, Inc.",
+    "logo": "",
+    "website": "",
+    "hq": "Louisville, CO",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Louisville, CO. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-10-28",
+    "enriched": true
   }
 ]
