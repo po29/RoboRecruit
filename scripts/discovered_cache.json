@@ -92803,5 +92803,288 @@
     "jobCount": 2,
     "discoveredDate": "2026-10-28",
     "enriched": true
+  },
+  {
+    "id": "maven-robotics",
+    "name": "Maven Robotics",
+    "logo": "",
+    "website": "",
+    "hq": "Santa Clara, CA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [
+      {
+        "id": "gh-4893275008",
+        "companyId": "maven-robotics",
+        "title": "Data Collection Operator",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/4893275008?gh_jid=4893275008"
+      },
+      {
+        "id": "gh-4632905008",
+        "companyId": "maven-robotics",
+        "title": "DevOps Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/4632905008?gh_jid=4632905008"
+      },
+      {
+        "id": "gh-4647150008",
+        "companyId": "maven-robotics",
+        "title": "Embedded Software Engineer, Real-Time Embedded",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/4647150008?gh_jid=4647150008"
+      },
+      {
+        "id": "gh-4647148008",
+        "companyId": "maven-robotics",
+        "title": "Embedded Software Engineer, Real-Time Linux",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/4647148008?gh_jid=4647148008"
+      },
+      {
+        "id": "gh-5456483008",
+        "companyId": "maven-robotics",
+        "title": "Evaluation Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5456483008?gh_jid=5456483008"
+      },
+      {
+        "id": "gh-5456490008",
+        "companyId": "maven-robotics",
+        "title": "Executive Assistant",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5456490008?gh_jid=5456490008"
+      },
+      {
+        "id": "gh-5378870008",
+        "companyId": "maven-robotics",
+        "title": "Fleet Operations Software Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5378870008?gh_jid=5378870008"
+      },
+      {
+        "id": "gh-5378380008",
+        "companyId": "maven-robotics",
+        "title": "Hardware Test Lead",
+        "level": "Lead",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5378380008?gh_jid=5378380008"
+      },
+      {
+        "id": "gh-5456484008",
+        "companyId": "maven-robotics",
+        "title": "Head of Data Operations",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5456484008?gh_jid=5456484008"
+      },
+      {
+        "id": "gh-5465083008",
+        "companyId": "maven-robotics",
+        "title": "Industrial Design Lead",
+        "level": "Lead",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5465083008?gh_jid=5465083008"
+      },
+      {
+        "id": "gh-5456485008",
+        "companyId": "maven-robotics",
+        "title": "Manufacturing Technician",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5456485008?gh_jid=5456485008"
+      },
+      {
+        "id": "gh-4139590008",
+        "companyId": "maven-robotics",
+        "title": "Motion Planning & Controls Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/4139590008?gh_jid=4139590008"
+      },
+      {
+        "id": "gh-5366516008",
+        "companyId": "maven-robotics",
+        "title": "Robot Autonomy Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5366516008?gh_jid=5366516008"
+      },
+      {
+        "id": "gh-5382770008",
+        "companyId": "maven-robotics",
+        "title": "Robot Field Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5382770008?gh_jid=5382770008"
+      },
+      {
+        "id": "gh-5456486008",
+        "companyId": "maven-robotics",
+        "title": "Robot Fleet Maintenance Lead",
+        "level": "Lead",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5456486008?gh_jid=5456486008"
+      },
+      {
+        "id": "gh-4418017008",
+        "companyId": "maven-robotics",
+        "title": "Robotics AI Research Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/4418017008?gh_jid=4418017008"
+      },
+      {
+        "id": "gh-5382766008",
+        "companyId": "maven-robotics",
+        "title": "Robotic System Integration Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5382766008?gh_jid=5382766008"
+      },
+      {
+        "id": "gh-5382769008",
+        "companyId": "maven-robotics",
+        "title": "Robot System Testing Engineer",
+        "level": "Mid",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5382769008?gh_jid=5382769008"
+      },
+      {
+        "id": "gh-5465207008",
+        "companyId": "maven-robotics",
+        "title": "Senior Electrical Engineer, High Speed Hardware Design",
+        "level": "Senior",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5465207008?gh_jid=5465207008"
+      },
+      {
+        "id": "gh-5465221008",
+        "companyId": "maven-robotics",
+        "title": "Senior Electrical Engineer, Power Electronics",
+        "level": "Senior",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5465221008?gh_jid=5465221008"
+      },
+      {
+        "id": "gh-5356759008",
+        "companyId": "maven-robotics",
+        "title": "Senior Engineer, Dexterous End-Effector Design",
+        "level": "Senior",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5356759008?gh_jid=5356759008"
+      },
+      {
+        "id": "gh-5408461008",
+        "companyId": "maven-robotics",
+        "title": "Senior Engineering Technician",
+        "level": "Senior",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5408461008?gh_jid=5408461008"
+      },
+      {
+        "id": "gh-4135687008",
+        "companyId": "maven-robotics",
+        "title": "Senior Mechanical Engineer, Robot Hardware Design",
+        "level": "Senior",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/4135687008?gh_jid=4135687008"
+      },
+      {
+        "id": "gh-5467270008",
+        "companyId": "maven-robotics",
+        "title": "Strategic Finance Manager",
+        "level": "Manager",
+        "skills": [],
+        "location": "Santa Clara, CA",
+        "remote": false,
+        "postedDate": "2026-10-29",
+        "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5467270008?gh_jid=5467270008"
+      }
+    ],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Santa Clara, CA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 24,
+    "discoveredDate": "2026-10-30",
+    "enriched": true
   }
 ]
