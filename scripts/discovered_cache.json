@@ -93086,5 +93086,23 @@
     "jobCount": 24,
     "discoveredDate": "2026-10-30",
     "enriched": true
+  },
+  {
+    "id": "komatsu",
+    "name": "Komatsu",
+    "logo": "",
+    "website": "",
+    "hq": "Warrendale, PA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Warrendale, PA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-11-03",
+    "enriched": true
   }
 ]
