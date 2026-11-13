@@ -95764,5 +95764,23 @@
     "jobCount": 238,
     "discoveredDate": "2026-11-06",
     "enriched": true
+  },
+  {
+    "id": "lockheed-martin",
+    "name": "Lockheed Martin",
+    "logo": "",
+    "website": "",
+    "hq": "Littleton, CO",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Littleton, CO. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 3,
+    "discoveredDate": "2026-11-13",
+    "enriched": true
   }
 ]
