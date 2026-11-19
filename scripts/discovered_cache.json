@@ -95812,5 +95812,23 @@
     "jobCount": 1,
     "discoveredDate": "2026-11-14",
     "enriched": true
+  },
+  {
+    "id": "seegrid",
+    "name": "Seegrid",
+    "logo": "",
+    "website": "",
+    "hq": "Pittsburgh, PA",
+    "stage": "CompanyStage.SeriesA",
+    "problems": [
+      "ProblemDomain.RoboticsFoundation"
+    ],
+    "techStack": [],
+    "products": [],
+    "jobs": [],
+    "description": "Auto-discovered US robotics company working in robotics / AI platform. Based in Pittsburgh, PA. Profile built from live job postings — visit their website for full details.",
+    "jobCount": 2,
+    "discoveredDate": "2026-11-19",
+    "enriched": true
   }
 ]
